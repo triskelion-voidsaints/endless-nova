@@ -1,7 +1,7 @@
 # Endless Nova
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/triskelion-voidsaints/endless-nova/main/Triskele%20with%20Triquetra%20Badge%400.5x.png" alt="TVS:EN Badge"/>
+  <img src="https://github.com/triskelion-voidsaints/endless-nova/blob/main/Triskele%20with%20Triquetra%20Badge%400.5x.png" alt="TVS:EN Badge"/>
 </p>
 
 **Endless Nova** is my TC for Endless Sky that recreates the Novaverse. It's main features are:
