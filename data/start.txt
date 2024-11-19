@@ -1,0 +1,14 @@
+
+start "default"
+	name "Start"
+	description `Start`
+	conversation "default intro"
+	date 23 05 1177
+	system "Red Winged Blackbird"
+	planet "Neon Station"
+	account
+		credits 4000000000
+
+conversation "default intro"
+	`Enter a name!`
+	name

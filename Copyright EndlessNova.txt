@@ -1,0 +1,215 @@
+Files:
+	data/Mi?swizzling*
+Copyright: Darcy Manoel <Darcman00@gmail.com>
+License: CC-BY-SA-4.0
+
+Files:
+	data/stations*
+Content: 'Spacedock?VII' description
+Copyright: Geek (https://community.ambrosia.garden/u/Geek)
+License: permission given
+
+Files:
+	images/land/Helonis*
+Content: landing images from Supernova Shipyard
+Copyright: Ravelin Wright <github@ravelin.addy.io>
+License: CC BY-NC-SA 4.0
+
+Files:
+	images/land/Adek?Loral*
+	images/land/Agrippa*
+	images/land/Airfor*
+	images/land/Alala?Prime*
+	images/land/Alt*
+	images/land/Altia*
+	images/land/Antaria*
+	images/land/Arabus*
+	images/land/Arado*
+	images/land/Ar?Bis?Routak*
+	images/land/Ar?Bis?Usoca*
+	images/land/Ar?Bis?Valalo*
+	images/land/Aria*
+	images/land/Ar?Uso*
+	images/land/Ar?za?Diti*
+	images/land/Ar?Za?Iusia*
+	images/land/Ar?Za?Oryhara*
+	images/land/Atar*
+	images/land/Aurora*
+	images/land/Brass*
+	images/land/Chronos*
+	images/land/Cibella*
+	images/land/Codec*
+	images/land/Cornwall*
+	images/land/Cunja?Loff*
+	images/land/Dani*
+	images/land/Daor*
+	images/land/Diva*
+	images/land/Dunroamin*
+	images/land/Eguit*
+	images/land/Eight*
+	images/land/Ekran*
+	images/land/Feret*
+	images/land/Fermia*
+	images/land/Fetumschk*
+	images/land/Firebrand*
+	images/land/Forticus*
+	images/land/Gecht*
+	images/land/Gem*
+	images/land/Georgia*
+	images/land/Gineia*
+	images/land/Ginka*
+	images/land/Gladius*
+	images/land/GLi?Tech?Nia*
+	images/land/Goliath*
+	images/land/Greenwich*
+	images/land/Gungungun*
+	images/land/Habilis*
+	images/land/Hargen*
+	images/land/Haven*
+	images/land/Hearth*
+	images/land/Helen*
+	images/land/Heraan*
+	images/land/Herald*
+	images/land/Honor*
+	images/land/Hourglass*
+	images/land/Joccika*
+	images/land/K?ar?Kasi*
+	images/land/Kel?ar?Fel*
+	images/land/Kel?ar?Iy*
+	images/land/Kerensky*
+	images/land/Kinike*
+	images/land/Kolan*
+	images/land/Kont*
+	images/land/Korell*
+	images/land/Kymonthia*
+	images/land/Las?Vegas*
+	images/land/Last?Chance*
+	images/land/Latin*
+	images/land/Lixos*
+	images/land/Llyrithra*
+	images/land/Lobos*
+	images/land/Lodestone*
+	images/land/Luna*
+	images/land/Mairim*
+	images/land/Mars*
+	images/land/Merrol*
+	images/land/Mickle*
+	images/land/Misfire*
+	images/land/Moash*
+	images/land/Moonview*
+	images/land/Mu?ar?Haro*
+	images/land/Neo?New?York*
+	images/land/New?Babylon*
+	images/land/New?England*
+	images/land/New?Ireland*
+	images/land/Nibos*
+	images/land/Nil?ar?Kemorya*
+	images/land/Nil?ar?Narada*
+	images/land/Nil?ar?Nina*
+	images/land/Nil?ar?Peset*
+	images/land/Nil?ar?Riai*
+	images/land/Nirvana*
+	images/land/Notas*
+	images/land/Olos*
+	images/land/Ormond*
+	images/land/Outcast*
+	images/land/Palein*
+	images/land/Pan*
+	images/land/Pand*
+	images/land/P?ar?Aed*
+	images/land/P?ar?Veraniso*
+	images/land/Rauther*
+	images/land/Rebel?I*
+	images/land/Reflex?ion*
+	images/land/Retsim*
+	images/land/Rigel?III*
+	images/land/Rimerta*
+	images/land/Romule*
+	images/land/Ryll*
+	images/land/Schmoo*
+	images/land/Serenity*
+	images/land/Siberia*
+	images/land/Simpson*
+	images/land/Sirius?II*
+	images/land/Sirius?Prime*
+	images/land/Skye*
+	images/land/Snowmelt*
+	images/land/Sorvad*
+	images/land/Spica*
+	images/land/Stlap*
+	images/land/Syracuse*
+	images/land/Tau?II*
+	images/land/Tau?Prime*
+	images/land/Tekel*
+	images/land/Teron*
+	images/land/Thraine*
+	images/land/Thror*
+	images/land/Tidal*
+	images/land/Tranquility*
+	images/land/Tre?ar?Aeberl*
+	images/land/Tre?ar?Aljo*
+	images/land/Tre?ar?Erma*
+	images/land/Tre?ar?Illini*
+	images/land/Tre?ar?Petak*
+	images/land/Tre?ar?Pira*
+	images/land/Tre?ar?Teschesch*
+	images/land/Tre?ar?Vilarn*
+	images/land/Tre?ar?Zalom*
+	images/land/Trenel*
+	images/land/Trusa*
+	images/land/Turalis*
+	images/land/UHP?0164*
+	images/land/UHP?0474*
+	images/land/UHP?1002*
+	images/land/UHP?1002b*
+	images/land/UHP?1002c*
+	images/land/UHP?1002d*
+	images/land/Valoria*
+	images/land/Vella*
+	images/land/Vellos?II*
+	images/land/Vellos*
+	images/land/Ver?ar?Noriout*
+	images/land/Ver?ar?Pised*
+	images/land/Ver?ar?Plas*
+	images/land/Ver?ar?Roqu*
+	images/land/Ver?ar?Shan*
+	images/land/Viking*
+	images/land/Vrenna*
+	images/land/Water?Moon*
+	images/land/Xyon*
+	images/land/Z?heaj*
+	images/land/Z?precti?He*
+Content: landing images from Aftermath
+Copyright: Ragashingo (https://ragashingo.com/)
+License: permission given
+
+Files:
+	images/land/Auroran?LP*
+	images/land/Auroran?Single*
+	images/land/Auroran?Triple*
+	images/land/Boral?I*
+	images/land/CC?Station?Small*
+	images/land/CC?Station*
+	images/land/Deimos?Double*
+	images/land/Deimos*
+	images/land/Earth*
+	images/land/Europa*
+	images/land/Federation?Battle*
+	images/land/Federation?Station*
+	images/land/Houseless*
+	images/land/Kismet*
+	images/land/LPAD*
+	images/land/Menin*
+	images/land/Polaris?Defence*
+	images/land/Polaris?Skyminer*
+	images/land/Polaris?Skyminers*
+	images/land/Polaris?Skystation*
+	images/land/Polaris?Station*
+	images/land/Pyrogenesis?I*
+	images/land/UHP?1002b*
+	images/land/UHP?1002c*
+	images/land/UHP?1002d*
+Content: landing images from EV Nova
+Copyright: ATMOS
+License: unlicensed
+

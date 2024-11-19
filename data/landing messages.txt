@@ -1,0 +1,14 @@
+
+"landing message" "You cannot land on a gas giant."
+
+"landing message" "This planet has too much tectonic activity for you to land safely on it."
+
+"landing message" "You cannot land on this part of the ringworld."
+
+"landing message" "You are not sure what this is, but it's not something you can land on."
+
+"landing message" "You cannot land on a black hole!"
+
+"landing message" "You cannot land on this part of the Dyson sphere."
+
+"landing message" "You cannot land on a brown dwarf."

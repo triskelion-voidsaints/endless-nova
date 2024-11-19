@@ -1,0 +1,18 @@
+
+trade
+	commodity "Food" 150 450
+		"food"
+	commodity "Metal" 200 600
+		"metal"
+	commodity "Industrial" 300 900
+		"industrial"
+	commodity "Equipment" 500 1250
+		"equipment"
+	commodity "Medical" 750 1688
+		"medical goods"
+	commodity "Luxury Goods" 1000 2000
+		"luxury goods"
+	commodity "Local Alcohols" 200 1000
+		"local alcohols"
+	commodity "Data Crystals" 150 900
+		"data crystals"

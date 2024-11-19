@@ -1,0 +1,8222 @@
+
+system Aalolph
+	pos -327.173 754.94
+	government Heraan
+	link Bluyo
+	link Hiferryl
+	link Issar
+	link Kaow
+	link Okiia
+	"jump range" 40
+	departure 1000
+		jump 500
+	arrival 1100
+		jump 550
+	object "Heraan LP - 'Irze'"
+		sprite "planet/Auroran Listening Post side"
+	object
+		sprite star/k5
+		distance 1000
+		period 500
+
+system Agate
+	pos -692 -568
+	government Uninhabited
+	link Claimer
+	link Enlightenment
+	link Locuritas
+	link Moonrise
+	link Pontoll
+	"jump range" 40
+	departure 500
+		jump 250
+	arrival 600
+		jump 300
+	object Reflex-ion
+		sprite "planet/Class J"
+	object
+		sprite star/k5
+		distance 500
+		period 500
+
+system Akasha
+	pos 250 152
+	government Uninhabited
+	link Marion
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Alala
+	pos -484 518
+	government Moash
+	link Neirt
+	link Vestin
+	"jump range" 40
+	departure 1000
+		jump 500
+	arrival 1100
+		jump 550
+	trade Industrial 300
+	trade "Luxury Goods" 2000
+	trade Metal 600
+	object "Alala Prime"
+		sprite "planet/Bacterial Sludge"
+	object
+		sprite star/k5
+		distance 1000
+		period 500
+
+system Alcor
+	pos -1120 -1124
+	government Uninhabited
+	link Higiron
+	link Hogun
+	link Mizar
+	link Umbira
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Aldebaran
+	pos -120.995 -762.872
+	government Federation
+	link Corvus
+	link Mallereth
+	link Petra
+	link Tidbinbilla
+	"jump range" 40
+	departure 1500
+		jump 375
+	arrival 1600
+		jump 400
+	trade "Luxury Goods" 2000
+	trade Medical 750
+	object
+		sprite "planet/Gas Giant Rings"
+		object Haven
+			distance 750
+			period 500
+			sprite "planet/Moon Water cities"
+			object
+				sprite planet/Hypergate
+				distance 500
+				period 100
+	object
+		sprite star/k5
+		distance 1500
+		period 500
+
+system Alesia
+	pos -436 -654
+	government Rebellion
+	link Capella
+	link Reticent
+	"jump range" 40
+	departure 1000
+		jump 500
+	arrival 1100
+		jump 550
+	trade Equipment 1250
+	trade Food 450
+	trade Industrial 300
+	object
+		sprite star/k5
+		distance 1000
+		period 500
+	object Merrol
+		sprite "planet/Class M Small"
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Algol
+	pos 223 -338
+	government Uninhabited
+	link Antares
+	link Nil'kol
+	link Outbound
+	link Threshold
+	link Tichel
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Allarei
+	pos -1294 -206
+	government Uninhabited
+	link Dellor
+	link Kanto
+	link Llysla
+	link Qellan
+	link Tonallo
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Allia
+	pos -868 -380
+	government Uninhabited
+	link Avalon
+	link Blleia
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Alphara
+	pos -598 172
+	government Federation
+	link "Journey's End"
+	link Spica
+	link Xante
+	link Yria
+	"jump range" 40
+	departure 500
+		jump 250
+	arrival 600
+		jump 300
+	trade Food 450
+	trade Medical 750
+	object "Spacedock III"
+		sprite "planet/Federation Battle Station"
+	object
+		sprite star/k5
+		distance 500
+		period 500
+
+system Altair
+	pos -303 -286
+	government Pirate
+	link OG-PR
+	link Tenetria
+	trade Industrial 900
+	trade Medical 750
+	"jump range" 40
+	departure 1000
+		jump 500
+	arrival 1100
+		jump 550
+	object Alt
+		sprite "planet/Helium Xenon"
+		object Altia
+			sprite "planet/Moon Rocky cities"
+			distance 600
+			period 500
+	object
+		sprite star/k5
+		distance 1000
+		period 500
+
+system Aludra
+	pos 520 -510
+	government Uninhabited
+	link J'fhor
+	link Mintaka
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Amnaho
+	pos 126 856
+	government Empire
+	link Hanova
+	link OG-AU
+	link Ofine
+	"jump range" 40
+	departure 1000
+		jump 500
+	arrival 1100
+		jump 550
+	trade "Data Crystals" 900
+	trade Equipment 1250
+	trade Medical 750
+	object "Imperial Archives"
+		sprite "planet/Deimos Station Double"
+	object
+		sprite star/k5
+		distance 1000
+		period 500
+
+system Antares
+	pos 212 -177
+	government Uninhabited
+	link Algol
+	link Kanius
+	link Polaris
+	link Sirius
+	link Tichel
+	link Widow
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Aplix
+	pos 284 760
+	government Empire
+	link Ofine
+	link Renan
+	link Zipa
+	trade Equipment 1250
+	trade Metal 200
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Lixos
+		sprite "planet/Silicates Planet cities"
+		distance 1000
+		period 500
+
+system Aradne
+	pos 528 562
+	government Uninhabited
+	link Cipa
+	link Kymon
+	link Reer
+	link Reeva
+	link Tural
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Aral
+	pos -276 -512
+	government Federation
+	link Lesten
+	link Pollux
+	link Space
+	link Venture
+	trade Food 450
+	trade Metal 200
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Outcast
+		sprite "planet/Moon Tectonic"
+		distance 500
+		period 500
+
+system Archenar
+	pos -74 -131
+	government Independent
+	link Conden
+	link Mark
+	"jump range" 40
+	trade Equipment 500
+	trade Food 450
+	object
+		sprite star/k5
+		period 10
+	object Trusa
+		sprite "planet/Rare Mineral Planet"
+		distance 1500
+		period 500
+		object Sirrusa
+			sprite "planet/CC Station Small side"
+			distance 500
+			offset 300
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Arcturus
+	pos -189 -405
+	government Independent
+	link OG-PR
+	link Pollux
+	"jump range" 40
+	trade Industrial 300
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Fermia
+		sprite "planet/Argon Atmosphere"
+		distance 1000
+		period 500
+		object "Boral I"
+			sprite "planet/Skymining Independent side"
+			distance 200
+			offset 300
+
+system Aria
+	pos 350 269
+	government Empire
+	link Iplik
+	link Unin
+	"jump range" 40
+	trade Food 150
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Aria Prime"
+		sprite "planet/Class O cities"
+		distance 1000
+		period 500
+
+system Astra
+	pos -348 422
+	government Heraan
+	link Inci
+	link Tuente
+	link Vantra
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Dauntless
+		sprite "planet/Auroran Station Triple side"
+		distance 1000
+		period 500
+
+system Aurora
+	pos 140 756
+	government Empire
+	link Ivoh
+	link OG-AU
+	link Ofine
+	"jump range" 40
+	trade Equipment 500
+	trade Food 450
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object Aurora
+		sprite "planet/Class M Polluted cities"
+		distance 700
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+	object Philar
+		sprite "planet/Deimos Station"
+		distance 2000
+		period 500
+	object Pholar
+		sprite "planet/Deimos Station"
+		distance 2000
+		period 500
+		offset 150
+
+system Avalon
+	pos -804 -422
+	government Federation
+	link Allia
+	link Lotus
+	link Pontoll
+	link Procyon
+	"jump range" 40
+	trade Industrial 900
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Herald
+		sprite "planet/Silicates Planet"
+		distance 1000
+		period 500
+
+system Baltar
+	pos -318 -720
+	government Federation
+	link Reticent
+	link Teleeli
+	link Tidbinbilla
+	"jump range" 40
+	trade Food 450
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Georgia
+		sprite "planet/Class M Frosty cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system "Barnard's Star"
+	pos -552 -824
+	government Uninhabited
+	link Denier
+	link Foroth
+	link Ganorran
+	link PsiD-3
+	link Teleeli
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Bellatrix
+	pos 442 -496
+	government Uninhabited
+	link Mintaka
+	link Peacock
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Bellerophon
+	pos -558 -1052
+	government Uninhabited
+	link Evlei
+	link Ganorran
+	link Nestin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Belt
+	pos -892 216
+	government Vella
+	link Manit
+	link Ovia
+	link Warana
+	"jump range" 40
+	trade Equipment 500
+	trade Medical 1688
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Redhead
+		sprite "planet/Deimos Station Double"
+		distance 1000
+		period 500
+
+system Biri
+	pos -796 272
+	government Moash
+	link Reacher
+	link Reap
+	link Warana
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Moash LP 5"
+		sprite "planet/Auroran Station side"
+		distance 1000
+		period 500
+
+system Bis'routak
+	pos 816 -138
+	government Uninhabited
+	link Bis'valalo
+	link Kel'ariy
+	link Tri'cikilla
+	link Ver'ikar
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Ar'Bis Routak"
+		sprite "planet/Moon Rocky"
+		distance 500
+		period 500
+
+system Bis'usoca
+	pos 996 100
+	government Polaris
+	link Kel'hepera
+	link Ne'helipar
+	link OG-HO
+	"jump range" 40
+	trade Equipment 500
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object "Ar'Bis Usoca"
+		sprite "planet/Class O"
+		distance 1000
+		period 500
+		object Ar'Uso
+			sprite "planet/Moon Forest"
+			distance 300
+			period 500
+
+system Bis'valalo
+	pos 716 -160
+	government Uninhabited
+	link Bis'routak
+	link Til'kolecto
+	link Ver'avo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Ar'Bis Valalo"
+		sprite "planet/Dark World"
+		distance 500
+		period 500
+
+system Blleia
+	pos -919 -338
+	government Uninhabited
+	link Allia
+	link Estearll
+	link Lalande
+	link Llearn
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Bloodstone
+	pos -314.85 -812.899
+	government Federation
+	link Denier
+	link Mallereth
+	link OG-CR
+	link Tidbinbilla
+	"jump range" 40
+	trade "Data Crystals" 525
+	trade Equipment 875
+	trade Food 300
+	trade Industrial 600
+	trade "Local Alcohols" 600
+	trade "Luxury Goods" 1500
+	trade Medical 1219
+	trade Metal 400
+	object
+		sprite star/k5
+		period 10
+	object Honor
+		sprite "planet/Arboreal World"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Bluyo
+	pos -372 833
+	government Uninhabited
+	link Aalolph
+	link Rend
+	link Terval
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Boro
+	pos 493 303
+	government Dani
+	link Fallen
+	link Ferris
+	link Iplik
+	link Ivar
+	link Pilot
+	link Sender
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Dani LP"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Boundary
+	pos -73 -513
+	government Uninhabited
+	link Fomalhaut
+	link Horizon
+	link "Nesre Primus"
+	link Quandary
+	link Scheros
+	link Venture
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Bur'I'Loc
+	pos 223 -625
+	government Uninhabited
+	link Deb'I'Vad
+	link Fer'L'Jus
+	link Het'A'Tallius
+	link NGC-1317
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system CHALLENGE
+	pos -70.0799 -866.831
+	government Replicant
+	link GATE
+	link TERMINUS
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system CHIMAERA
+	pos 97.4824 -994.226
+	government Replicant
+	link REUNION
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system CLASH
+	pos 293.447 -917.891
+	government Replicant
+	link DESTRUCTION
+	link FATE
+	link REUNION
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Caldos
+	pos 1021 485
+	government Uninhabited
+	link Holpa
+	link Nibos
+	link Nicka
+	link Rome
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Canopus
+	pos -298 -127
+	government Uninhabited
+	link Fyre
+	link Mark
+	link Nadir
+	link "Porto Rillia"
+	link Sanddown
+	link "Sol b"
+	link Tenetria
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Capella
+	pos -554 -640
+	government Uninhabited
+	link Alesia
+	link Homeland
+	link Locuritas
+	link Space
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Ice"
+		distance 500
+		period 500
+
+system Caryo
+	pos 760 322
+	government Empire
+	link Fallen
+	link J'llon
+	link Pilot
+	link Tiria
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 450
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Arabus
+		sprite "planet/Moon Dead"
+		distance 750
+		period 500
+		object Cunjo
+			sprite "planet/Auroran Station Triple side"
+			distance 500
+			period 500
+
+system Centauri
+	pos -565 -272
+	government Federation
+	link Metter
+	link Naka
+	link OG-SO
+	"jump range" 40
+	trade Food 150
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Antaria
+		sprite "planet/Arboreal World cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Chayos
+	pos -53 549
+	government Heraan
+	link Heraan
+	link Hiro
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Heraan LP - 'Eyeya'"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Chicea
+	pos 1324 -764
+	government Independent
+	link Ravelin
+	link S7evyn
+	"jump range" 40
+	trade Industrial 980
+	trade Medical 792
+	object
+		sprite star/k5
+		period 10
+	object Eight
+		sprite "planet/Moon Tectonic"
+		distance 1000
+		period 500
+
+system Chirt
+	pos -655 458
+	government Moash
+	link Felos
+	link Neirt
+	link OG-MO
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Ekran
+		sprite "planet/Class M Tectonic cities"
+		distance 1000
+		period 500
+
+system Cipa
+	pos 565 674
+	government Uninhabited
+	link Aradne
+	link Kipa
+	link Kymon
+	link Zipa
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Claimer
+	pos -543 -485
+	government Uninhabited
+	link Agate
+	link Maker
+	link Moonrise
+	link Space
+	link Trishka
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Codehaven
+	pos 81 -463
+	government Federation
+	link Eeniar
+	link NGC-1317
+	link Scheros
+	link Tichel
+	"jump range" 40
+	trade "Luxury Goods" 2000
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Codec
+		sprite "planet/Argon Atmosphere cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 500
+			offset 65
+
+system Conden
+	pos -18 -78
+	government Uninhabited
+	link Archenar
+	link Jenner
+	link Mark
+	link Sirius
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Confluence
+	pos 278 218
+	government Uninhabited
+	link Sender
+	link Unin
+	link Uroa
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Corvus
+	pos -54 -784
+	government Uninhabited
+	link Aldebaran
+	link MAW
+	link OG-SH
+	link Petra
+	"jump range" 40
+	departure 500
+		jump 250
+	arrival 600
+		jump 250
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Cove
+	pos -187 330
+	government Heraan
+	link Ivia
+	link Peflek
+	link Vemap
+	link Xell
+	"jump range" 40
+	trade Equipment 500
+	trade "Luxury Goods" 2000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Dominance
+		sprite "planet/Deimos Station Double"
+		distance 500
+		period 500
+
+system Creyt
+	pos -499 344
+	government Moash
+	link Eplic
+	link Iris
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Moash LP 1"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Cros'T'Road
+	pos 564 -791
+	government Uninhabited
+	link Sur'E'Qoru
+	link Tin'E'Tivel
+	link Xym'E'Caros
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Hypergate side"
+		distance 600
+		offset 270
+	object
+		sprite planet/Hypergate
+		distance 1200
+
+system Cworn
+	pos -255 994
+	government Empire
+	link Firmantar
+	link Hanova
+	link Hepen
+	link Terval
+	"jump range" 40
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object Cibella
+		sprite "planet/Class O cities"
+		distance 1000
+		period 500
+
+system DESTINY
+	pos 66.6974 -1206.21
+	government Replicant
+	link FATE
+	link GATE
+	link POTENTIAL
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system DESTRUCTION
+	pos 160.052 -1156.28
+	government Replicant
+	link CLASH
+	link REUNION
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Dal'U'Sinto
+	pos 419 -879
+	government Uninhabited
+	link Hot'A'Tanius
+	link Sel'I'Gal
+	link Tin'E'Tivel
+	link Vyl'E'Tinti
+	link Xym'E'Caros
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Dani
+	pos 136 526
+	government Dani
+	link Himear
+	link Kilik
+	link Renan
+	"jump range" 40
+	trade Food 450
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object "Dani Prime"
+		sprite "planet/Class L cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Deb'I'Vad
+	pos 330 -617
+	government Uninhabited
+	link Bur'I'Loc
+	link Fer'L'Jus
+	link Het'A'Tallius
+	link Mintaka
+	link Serpentis
+	link Vyl'E'Tinti
+	"jump range" 40
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Dellor
+	pos -1271 -351
+	government Uninhabited
+	link Allarei
+	link OG-VO
+	link Qellan
+	link Tonallo
+	link Vellos
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Demos
+	pos -765 -267
+	government Uninhabited
+	link Glimmer
+	link Kerella
+	link Lalande
+	link Lotus
+	link Rimshot
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Denier
+	pos -428 -897
+	government Uninhabited
+	link "Barnard's Star"
+	link Bloodstone
+	link Foroth
+	link Mallereth
+	link SPC-2710
+	link Teltar
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Derlic
+	pos -367 548
+	government Uninhabited
+	link Kaow
+	link Khyste
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system "Dnun Har"
+	pos -1069.51 -907.097
+	government Uninhabited
+	habitable 1080
+	belt 1836
+	link Mizar
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Eeniar
+	pos 65 -197
+	government Federation
+	link Codehaven
+	link Kania
+	link Mark
+	link Tichel
+	"jump range" 40
+	trade Equipment 1358
+	trade Medical 817
+	object
+		sprite star/k5
+		period 10
+	object Helen
+		sprite "planet/Class M Water"
+		distance 500
+		period 500
+
+system Eguit
+	pos 678 874
+	government Tekel
+	link Nutin
+	link Smada
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object "Eguit Prime"
+		sprite "planet/Ice Planet"
+		distance 1000
+		period 500
+
+system Enlightenment
+	pos -801 -545
+	government Federation
+	link Agate
+	link Pontoll
+	"jump range" 40
+	trade Equipment 1250
+	trade Industrial 300
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Kismet
+		sprite "planet/Gas Giant Rings"
+		distance 1500
+		period 500
+		object
+			sprite "planet/Skymining Pyrogenesis side orbiting"
+			distance 250
+			offset 300
+	object Xyon
+		sprite "planet/Class O"
+		distance 750
+		period 500
+		offset 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Ento
+	pos -932 2
+	government Uninhabited
+	link Inkira
+	link Jocci
+	link Vella
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Eplic
+	pos -586 345
+	government Moash
+	link Creyt
+	link Felos
+	link Neirt
+	"jump range" 40
+	trade Equipment 500
+	trade "Luxury Goods" 2000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Anex
+		sprite "planet/Deimos Station Double"
+		distance 1000
+		period 500
+
+system Erante
+	pos -1120 74
+	government Uninhabited
+	link Hevel
+	link Vella
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Arado
+		sprite "planet/Class M"
+		distance 1000
+		period 500
+
+system Estearll
+	pos -983 -407
+	government Independent
+	link Blleia
+	link Llearn
+	link Yllar
+	"jump range" 40
+	trade Food 150
+	trade "Luxury Goods" 1000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Goliath
+		sprite "planet/Class O cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Evera
+	pos 362 396
+	government Dani
+	link Himear
+	link Ivar
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Palein
+		sprite "planet/Class M Small"
+		distance 1000
+		period 500
+
+system Evlei
+	pos -494.922 -1120.37
+	government Rebellion
+	link Bellerophon
+	link SPC-0193
+	"jump range" 40
+	trade Food 450
+	trade Industrial 900
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Rings"
+		distance 1500
+		period 500
+		object "Rebel I"
+			sprite "planet/Moon Forest"
+			distance 1000
+			period 100
+
+system F'onora
+	pos 814 -529
+	government Uninhabited
+	link P'ecksa
+	link Tre'erman
+	link Ver'asplast
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system FATE
+	pos 203.73 -968.696
+	government Replicant
+	link CLASH
+	link DESTINY
+	link POTENTIAL
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Fallen
+	pos 650 295
+	government Empire
+	link Boro
+	link Caryo
+	link J'narr
+	link Over
+	link Pilot
+	link Tiria
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Fallen Memorial"
+		sprite "planet/Auroran Listening Post side"
+		distance 750
+		period 500
+
+system Far'E'Bunor
+	pos 449 -981
+	government Uninhabited
+	link Iwo'U'Sentar
+	link Lil'E'Song
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Felos
+	pos -692 355
+	government Empire
+	link Chirt
+	link Eplic
+	link Reap
+	link Xante
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Empire LP I"
+		sprite "planet/Auroran Station Triple side"
+		distance 1000
+		period 500
+
+system Fer'L'Jus
+	pos 279 -716
+	government Uninhabited
+	link Bur'I'Loc
+	link Deb'I'Vad
+	link Sel'I'Gal
+	link Ukari
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ferris
+	pos 487 215
+	government Uninhabited
+	link Boro
+	link J'narr
+	link Nil'kemorya
+	link Z'heaj
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Firmantar
+	pos -332 949
+	government Empire
+	link Cworn
+	link OG-EN
+	link Odnan
+	link Schev
+	link Terval
+	"jump range" 40
+	trade "Data Crystals" 150
+	object
+		sprite star/k5
+		period 10
+	object "End Council Station"
+		sprite "planet/Auroran Station Triple side"
+		distance 1000
+		period 500
+
+system Fomalhaut
+	pos -57 -403
+	government Federation
+	link Boundary
+	link Nemesis
+	link OG-PR
+	link Quandary
+	"jump range" 40
+	trade Food 450
+	trade Industrial 900
+	trade "Luxury Goods" 1000
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Snowmelt
+		sprite "planet/Ice Planet"
+		distance 500
+		period 500
+	object Gem
+		sprite "planet/Class K cities"
+		distance 500
+		period 500
+		offset 250
+
+system For'U'Destro
+	pos 642 -606
+	government Uninhabited
+	link "Last Stop"
+	link Mis'E'Odres
+	link Ver'E'Liani
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Foroth
+	pos -575.384 -952.804
+	government Uninhabited
+	link "Barnard's Star"
+	link Denier
+	link Ganorran
+	link Nestin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Fort
+	pos 443 535
+	government Dani
+	link Ivar
+	link Kilik
+	"jump range" 40
+	trade Equipment 500
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Forticus
+		sprite "planet/Methane Atmosphere cities"
+		distance 1000
+		period 500
+		object "Forticus Shipyards"
+			sprite "planet/Deimos Station Double"
+			distance 500
+			period 500
+
+system Freya
+	pos 32 590
+	government Empire
+	link Kine
+	link Pimen
+	link Rcaris
+	link Renan
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Empire LP II"
+		sprite "planet/Auroran Station Triple side"
+		distance 1000
+		period 500
+
+system Futurend
+	pos -489 1129
+	government Empire
+	link Hepen
+	link Odnan
+	link Sonete
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Habilis
+		sprite "planet/Class M Small cities"
+		distance 1000
+		period 500
+
+system Fynar
+	pos -600 755
+	government Uninhabited
+	link Hiferryl
+	link Mackle
+	link Pact
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Fyre
+	pos -436 -54
+	government Federation
+	link Canopus
+	link HJG-0637
+	link Yennin
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Lodestone
+		sprite "planet/Class L cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system G'amit
+	pos 1168 -98
+	government Uninhabited
+	link Ne'ritai
+	link Tre'minor
+	link Z'elta
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system GATE
+	pos 66.8249 -1105.47
+	government Replicant
+	link CHALLENGE
+	link DESTINY
+	link TERMINUS
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Galvan
+	pos -186 80
+	government Federation
+	link Tirna
+	link Zone
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object Syracuse
+		sprite "planet/Class M Polluted cities"
+		distance 500
+		period 500
+
+system Gan'U'Tornes
+	pos 430 -687
+	government Uninhabited
+	link Hot'A'Tanius
+	link Kor'D'On
+	link Sur'E'Qoru
+	link Vyl'E'Tinti
+	link Xym'E'Caros
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ganorran
+	pos -673 -1034
+	government Uninhabited
+	link "Barnard's Star"
+	link Bellerophon
+	link Foroth
+	link Nestin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Gary
+	pos 403 819
+	government Empire
+	link Ivoh
+	link Neilha
+	link Nutin
+	link Zipa
+	"jump range" 40
+	trade Food 150
+	trade "Luxury Goods" 2000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Schmoo
+		sprite "planet/Class M Water cities"
+		distance 1000
+		period 500
+
+system Gateway
+	pos 64 216
+	government Federation
+	link NGC-1170
+	link SPC-1927
+	link Uroa
+	"jump range" 40
+	trade Food 450
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object "Spacedock I"
+		sprite "planet/Federation Battle Station"
+		distance 500
+		period 500
+
+system Gechta
+	pos -937 370
+	government Empire
+	link Jerlyl
+	link Warana
+	"jump range" 40
+	trade "Luxury Goods" 1000
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object "Gecht Prime"
+		sprite "planet/Class J"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Gefjon
+	pos -144 -643
+	government Federation
+	link Horizon
+	link Tidbinbilla
+	link Venture
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Thraine
+		sprite "planet/Class M Small cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+	object Thror
+		sprite "planet/Moon Metallic cities"
+		distance 1000
+		period 500
+		offset 180
+
+system Glimmer
+	pos -679 -302
+	government Independent
+	link Demos
+	link OG-SO
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object Brass
+		sprite "planet/Dark World cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated side"
+			distance 600
+			period 100
+
+system Gotim
+	pos 268 389
+	government Uninhabited
+	link Himear
+	link Hope
+	link Iplik
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Grak
+	pos -947 -216
+	government Empire
+	link Kanto
+	link Narcissus
+	"jump range" 40
+	trade Equipment 500
+	trade "Luxury Goods" 2000
+	trade Medical 1688
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Discipline
+		sprite "planet/Auroran Station Triple side"
+		distance 1000
+		period 500
+
+system Grip
+	pos 959 361
+	government Uninhabited
+	link Holpa
+	link Hook
+	link Rome
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Agrippa
+		sprite "planet/Class K"
+		distance 1000
+		period 500
+
+system Gulag
+	pos -65 659
+	government Heraan
+	link Pimen
+	link Typin
+	"jump range" 40
+	trade Food 450
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Siberia
+		sprite "planet/Ice Planet"
+		distance 500
+		period 500
+
+system HJG-0637
+	pos -552 -43
+	government Uninhabited
+	link Fyre
+	link "Journey's End"
+	link Spica
+	link "Tau Ceti"
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system HJG-1034
+	pos -510 193
+	government Uninhabited
+	link McMurdo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object UHP-0474
+		sprite planet/Biohazardous
+		distance 500
+		period 500
+
+system Hannaford
+	pos -435 132
+	government Independent
+	link McMurdo
+	link OG-SE
+	link Spica
+	link Yennin
+	"jump range" 40
+	trade Equipment 1250
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Mairim
+		sprite "planet/Moon Ice"
+		distance 500
+		period 500
+
+system Hanova
+	pos -38 957
+	government Uninhabited
+	link Amnaho
+	link Cworn
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Hel'A'Forius
+	pos 636 -918
+	government Wraith
+	link Iwo'U'Sentar
+	link Mes'E'Ruma
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Blue"
+		distance 1000
+		period 500
+
+system Hepen
+	pos -371 1059
+	government Uninhabited
+	link Cworn
+	link Futurend
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Heraan
+	pos -127 491
+	government Heraan
+	link Chayos
+	link OG-HE
+	link Peflek
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object "Heraan Prime"
+		sprite "planet/Class M Polluted cities"
+		distance 800
+		period 500
+		object Resolution
+			sprite "planet/Deimos Station"
+			distance 700
+			period 500
+		object
+			sprite planet/Hypergate
+			distance 1200
+			period 500
+
+system Het'A'Tallius
+	pos 207 -503
+	government Wraith
+	link Bur'I'Loc
+	link Deb'I'Vad
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Rings"
+		distance 1000
+		period 500
+
+system Hevel
+	pos -1013 141
+	government Vella
+	link Erante
+	link OG-VE
+	link Warana
+	"jump range" 40
+	trade Food 450
+	trade "Local Alcohols" 1000
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Retsim
+		sprite "planet/Bacterial Sludge"
+		distance 1000
+		period 500
+
+system Hiferryl
+	pos -523 706
+	government Moash
+	link Aalolph
+	link Fynar
+	link Kaow
+	link Neck
+	link Rend
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Moash LP 3"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Higiron
+	pos -1029.51 -1011.1
+	government Uninhabited
+	habitable 486.68
+	belt 1495
+	link Alcor
+	link Mizar
+	link Umbira
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Himear
+	pos 269 499
+	government Dani
+	link Dani
+	link Evera
+	link Gotim
+	link Kilik
+	link OG-DA
+	link Renan
+	"jump range" 40
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Dedication
+		sprite "planet/Deimos Station"
+		distance 1000
+		period 500
+
+system Hiro
+	pos 12 493
+	government Uninhabited
+	link Chayos
+	link Hope
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Mortosch
+		sprite "planet/Deimos Station"
+		distance 500
+		period 500
+
+system Hogun
+	pos -1183.45 -1048.26
+	government Uninhabited
+	habitable 135
+	belt 1298
+	link Alcor
+	link Mizar
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Holpa
+	pos 1041 393
+	government Empire
+	link Caldos
+	link Grip
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object "Holpa Station"
+		sprite "planet/Auroran Station side"
+		distance 1000
+		period 500
+
+system Homeland
+	pos -556 -721
+	government Federation
+	link Capella
+	link Teleeli
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	object
+		sprite star/k5
+		period 10
+	object Hearth
+		sprite "planet/Class M cities"
+		distance 500
+		period 500
+
+system Hook
+	pos 842 405
+	government Tekel
+	link Grip
+	link J'llon
+	link Zeles
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object Fortitude
+		sprite "planet/Deimos Station"
+		distance 1000
+		period 500
+
+system Hope
+	pos 157 472
+	government Uninhabited
+	link Gotim
+	link Hiro
+	link Rcaris
+	link Wittor
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Horizon
+	pos -126 -575
+	government Federation
+	link Boundary
+	link Gefjon
+	link Petra
+	"jump range" 40
+	trade Industrial 900
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Greenwich
+		sprite "planet/Class M Terraformed cities"
+		distance 1500
+		period 500
+		object Chronos
+			sprite "planet/Moon Water"
+			distance 500
+			period 500
+			offset 200
+		object Hourglass
+			sprite "planet/Moon Forest"
+			distance 500
+			period 500
+			offset 400
+
+system Hot'A'Tanius
+	pos 448 -784
+	government Wraith
+	link Dal'U'Sinto
+	link Gan'U'Tornes
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Purple"
+		distance 1000
+		period 500
+
+system Hydden
+	pos -877 -131
+	government Vella
+	link Kanto
+	link Kerella
+	link Narcissus
+	link Oban
+	link Olaralo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Vella LP #4"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Illiask
+	pos -1093 -533
+	government Uninhabited
+	link Jellosia
+	link Qellan
+	link Vellos
+	link Yllar
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Inci
+	pos -298 478
+	government Uninhabited
+	link Astra
+	link Malo
+	link Saal
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Inkira
+	pos -910 -43
+	government Vella
+	link Ento
+	link Oban
+	"jump range" 40
+	trade Equipment 500
+	trade Medical 1688
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Vardoth
+		sprite "planet/Deimos Station"
+		distance 1000
+		period 500
+
+system Iplik
+	pos 377 321
+	government Uninhabited
+	link Aria
+	link Boro
+	link Gotim
+	link Pilot
+	link Unin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Iris
+	pos -414 307
+	government Wraith
+	link Creyt
+	link Ivia
+	link McMurdo
+	link Obatta
+	link Tuente
+	link Xante
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Purple"
+		distance 1000
+		period 500
+
+system Issar
+	pos -173 859
+	government Empire
+	link Aalolph
+	link Kine
+	link Olein
+	link Terval
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Empire LP III"
+		sprite "planet/Auroran Station side"
+		distance 1000
+		period 500
+
+system Ivar
+	pos 455 437
+	government Dani
+	link Boro
+	link Evera
+	link Fort
+	"jump range" 40
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object Teron
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+
+system Ivia
+	pos -302 350
+	government Heraan
+	link Cove
+	link Iris
+	link Malo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Heraan LP - 'Heron'"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Ivoh
+	pos 299 799
+	government Uninhabited
+	link Aurora
+	link Gary
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Iwo'U'Sentar
+	pos 557 -986
+	government Uninhabited
+	link Far'E'Bunor
+	link Hel'A'Forius
+	link Ran'E'Shepos
+	link Sur'E'Qoru
+	link Tin'E'Tivel
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system J'fhor
+	pos 563 -553
+	government Polaris
+	link Aludra
+	link Nil'nesa
+	link Ver'E'Liani
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Listening Post side"
+		distance 750
+		period 500
+
+system J'llon
+	pos 915 288
+	government Polaris
+	link Caryo
+	link Hook
+	link Nil'ikro
+	link Tiria
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Listening Post side"
+		distance 750
+		period 500
+
+system J'narr
+	pos 662 228
+	government Polaris
+	link Fallen
+	link Ferris
+	link Nil'kemorya
+	link Pilot
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Listening Post side"
+		distance 750
+		period 500
+
+system J'raphit
+	pos 1238 -697
+	government Polaris
+	link P'aedt
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Listening Post side"
+		distance 750
+		period 500
+
+system Jellosia
+	pos -1115 -606
+	government Uninhabited
+	link Illiask
+	link Systoll
+	link Uriall
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Jenner
+	pos -141 25
+	government Uninhabited
+	link Conden
+	link Kuon
+	link NGC-1170
+	link "Porto Rillia"
+	link "Red Winged Blackbird"
+	link Sanddown
+	link Tirna
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Jerlyl
+	pos -810 445
+	government Moash
+	link Gechta
+	link Llima
+	link OG-MO
+	link Reap
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Moash LP 4"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Jocci
+	pos -886 40
+	government Vella
+	link Ento
+	link Manit
+	link OG-VE
+	link Uvon
+	"jump range" 40
+	trade Industrial 900
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Joccika
+		sprite "planet/Methane Atmosphere"
+		distance 1000
+		period 500
+		object Joccia
+			sprite "planet/Auroran Station Triple side"
+			distance 500
+			period 500
+
+system "Journey's End"
+	pos -618 45
+	government Federation
+	link Alphara
+	link HJG-0637
+	link "Nesre Secundus"
+	link Spica
+	"jump range" 40
+	trade "Luxury Goods" 2000
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Dunroamin
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system K'falla
+	pos 1177 -519
+	government Uninhabited
+	link Nil'pesetra
+	link P'aedt
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K'kiptorak
+	pos 1356 -166
+	government Polaris
+	link Ki'asman
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Listening Post side"
+		distance 750
+		period 500
+		object
+			sprite "planet/Polaris Admin Relay"
+			distance 300
+			period 500
+
+system K'marak
+	pos 595 28
+	government Polaris
+	link Nil'kemorya
+	link OG-PO
+	link P'napna
+	link Til'kolecto
+	link Tre'vasar
+	link Tri'cikilla
+	link Za'krana
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Admin Relay"
+		distance 500
+		period 500
+
+system K'minkek
+	pos 650 -424
+	government Polaris
+	link Ne'prata
+	link P'ecksa
+	link Z'precti
+	link Za'iuso
+	"jump range" 40
+	trade "Data Crystals" 150
+	trade Food 450
+	object
+		sprite star/k5
+		period 10
+	object "K'ar Kasi"
+		sprite "planet/Ice Planet"
+		distance 1000
+		period 500
+
+system K'onl
+	pos 445 -244
+	government Polaris
+	link Ne'prata
+	link Nil'vran
+	link P'napna
+	link Tre'illica
+	link Tri'niphu
+	link Z'precti
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Admin Relay"
+		distance 500
+		period 500
+
+system K'yapta
+	pos 887 -296
+	government Polaris
+	link OG-DR
+	link Ver'ikar
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Admin Relay"
+		distance 500
+		period 500
+
+system K1
+	pos -799 -788
+	government Uninhabited
+	link K11
+	link K22
+	link K33
+	link K44
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Haze"
+		distance 1500
+		period 360
+	object
+		sprite "planet/Gas Giant Purple"
+		distance 1500
+		period 360
+		offset 180
+
+system K11
+	pos -798 -717
+	government Uninhabited
+	link K1
+	link K18
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Orange"
+		distance 1000
+		period 500
+
+system K12
+	pos -828 -839
+	government Uninhabited
+	link K20
+	link K4
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K14
+	pos -665 -850
+	government Uninhabited
+	link K21
+	link K7
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K16
+	pos -929 -737
+	government Uninhabited
+	link K24
+	link K8
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K18
+	pos -756 -759
+	government Uninhabited
+	link K11
+	link Numamba
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K20
+	pos -1015 -848
+	government Uninhabited
+	link K12
+	link OG-TW
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K21
+	pos -933 -864
+	government Uninhabited
+	link K14
+	link Numamba
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K22
+	pos -642 -805
+	government Uninhabited
+	link K1
+	link K30
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Ice"
+		distance 1000
+		period 500
+
+system K24
+	pos -707 -655
+	government Uninhabited
+	link K16
+	link Korell
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K3
+	pos -664 -722
+	government Uninhabited
+	link K6
+	link PsiD-3
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K30
+	pos -671 -754
+	government Uninhabited
+	link K22
+	link Korell
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K33
+	pos -913 -824
+	government Uninhabited
+	link K1
+	link K36
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Rings"
+		distance 1000
+		period 500
+
+system K36
+	pos -850 -745
+	government Uninhabited
+	link K33
+	link K9
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K4
+	pos -803.389 -1038.52
+	government Uninhabited
+	link K12
+	link PsiD-4
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K44
+	pos -793 -886
+	government Uninhabited
+	link K1
+	link K48
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Blue"
+		distance 1000
+		period 500
+
+system K48
+	pos -748 -830
+	government Uninhabited
+	link K44
+	link OG-TW
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K6
+	pos -890 -685
+	government Uninhabited
+	link K3
+	link K9
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K7
+	pos -822 -633
+	government Uninhabited
+	link K14
+	link PsiD-1
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K8
+	pos -1180.81 -734.564
+	government Uninhabited
+	link K16
+	link PsiD-2
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system K9
+	pos -868.214 -883.851
+	government Uninhabited
+	link K36
+	link K6
+	link PsiD-5
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Kania
+	pos 182 16
+	government Independent
+	link Eeniar
+	link Kanius
+	link OG-KA
+	"jump range" 40
+	trade "Luxury Goods" 2000
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object "Port Kane"
+		sprite "planet/CC Station"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Kanius
+	pos 238 -38
+	government Uninhabited
+	link Antares
+	link Kania
+	link Polaris
+	link Repede
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Kanto
+	pos -1045 -227
+	government Empire
+	link Allarei
+	link Grak
+	link Hydden
+	link Llysla
+	link Narcissus
+	link Tonallo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Empire LP VI"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Kaow
+	pos -439 658
+	government Empire
+	link Aalolph
+	link Derlic
+	link Hiferryl
+	trade Equipment 500
+	trade Metal 600
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Trenel
+		sprite "planet/Bacterial Sludge cities"
+		distance 1000
+		period 500
+
+system Kel'ariy
+	pos 785 -244
+	government Polaris
+	link Bis'routak
+	link OG-DR
+	"jump range" 40
+	trade "Data Crystals" 900
+	trade Food 150
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Haze"
+		distance 1500
+		period 360
+		offset 180
+	object "Kel'ar Iy"
+		sprite "planet/Ascension Device"
+		distance 1000
+		period 360
+		object
+			sprite planet/Hypergate
+			distance 700
+			period 100
+
+system Kel'fella
+	pos 1034 -470
+	government Polaris
+	link Ki'ade
+	link Nil'pesetra
+	link Tre'olepla
+	link Ver'ashan
+	link Ver'asplast
+	"jump range" 40
+	trade "Data Crystals" 150
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object "Kel'ar Fel"
+		sprite "planet/Class M Water"
+		distance 1000
+		period 500
+
+system Kel'hepera
+	pos 952 159
+	government Polaris
+	link Bis'usoca
+	link Ne'helipar
+	link Nil'ikro
+	"jump range" 40
+	trade "Data Crystals" 150
+	trade Food 150
+	trade "Luxury Goods" 1000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Kel'ar Heper"
+		sprite "planet/Class M Tectonic cities"
+		distance 1000
+		period 500
+
+system Kerella
+	pos -791 -173
+	government "Wild Geese"
+	link Demos
+	link Hydden
+	link Narcissus
+	link Rimshot
+	link Zalo
+	"jump range" 40
+	trade Food 450
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object "Spacedock VI"
+		sprite "planet/CC Station"
+		distance 500
+		period 500
+
+system Khyste
+	pos -446 567
+	government Uninhabited
+	link Derlic
+	link Vantra
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ki'actia
+	pos 827 -613
+	government Polaris
+	link Nil'blei
+	link Tre'erman
+	link Ver'asplast
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Admin Relay"
+		distance 500
+		period 500
+
+system Ki'ade
+	pos 1043 -627
+	government Polaris
+	link Kel'fella
+	link P'aedt
+	link Ver'asplast
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Admin Relay"
+		distance 500
+		period 500
+
+system Ki'asman
+	pos 1296 -245
+	government Polaris
+	link K'kiptorak
+	link Z'elta
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Admin Relay"
+		distance 500
+		period 500
+
+system Ki'manora
+	pos 1110 40
+	government Polaris
+	link Mu'hari
+	link Ne'ritai
+	link OG-HO
+	link Tre'petaka
+	link Ver'roqi
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Polaris Admin Relay"
+		distance 500
+		period 500
+
+system Kilik
+	pos 309 568
+	government Dani
+	link Dani
+	link Fort
+	link Himear
+	link OG-DA
+	link Tural
+	"jump range" 40
+	trade "Luxury Goods" 1000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Steadfast
+		sprite "planet/Auroran Station Triple side"
+		distance 1000
+		period 500
+
+system Kine
+	pos 5 761
+	government Empire
+	link Freya
+	link Issar
+	link OG-AU
+	"jump range" 40
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object Sorvad
+		sprite "planet/Class M"
+		distance 1000
+		period 500
+
+system Kipa
+	pos 565 758
+	government Ronin
+	link Cipa
+	link OG-RO
+	link Pippa
+	link Zipa
+	"jump range" 40
+	trade "Data Crystals" 525
+	trade Equipment 1250
+	trade Food 450
+	trade Industrial 900
+	trade "Local Alcohols" 1000
+	trade "Luxury Goods" 2000
+	trade Medical 1688
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Houseless
+		sprite "planet/Inhabited Asteroid"
+		distance 1000
+		period 500
+
+system Kontik
+	pos 842 808
+	government Uninhabited
+	link Smada
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Kont
+		sprite "planet/Intergalactic Hypergate"
+		distance 1000
+		period 500
+
+system Kor'D'On
+	pos 463 -612
+	government Uninhabited
+	link Gan'U'Tornes
+	link Peacock
+	link Ver'E'Liani
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Korell
+	pos -702 -915
+	government Krypt
+	link K24
+	link K30
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Korell
+		sprite "planet/Class M Small"
+		distance 1000
+		period 500
+
+system Koria
+	pos -309.595 -1012.12
+	government Rebellion
+	link SPC-1555
+	link Teltar
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 1688
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Rebel II"
+		sprite "planet/CC Station"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Kratos
+	pos 755 531
+	government Uninhabited
+	link Nicka
+	link Over
+	link Reeva
+	link Tekel
+	link Zeles
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Kuon
+	pos -52 15
+	government Federation
+	link Jenner
+	link OG-KA
+	"jump range" 40
+	trade Food 150
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Tidal
+		sprite "planet/Class O"
+		distance 500
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Kymon
+	pos 668 665
+	government Tekel
+	link Aradne
+	link Cipa
+	link Smada
+	"jump range" 40
+	trade Industrial 900
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Kymonthia
+		sprite "planet/Bacterial Sludge"
+		distance 1000
+		period 500
+		object "Kymonth Station"
+			sprite "planet/Auroran Station Triple side"
+			distance 500
+			period 500
+
+system Lacora
+	pos -150 598
+	government Heraan
+	link OG-HE
+	link Saal
+	link Typin
+	"jump range" 40
+	trade Equipment 500
+	trade Industrial 900
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Fetumschk
+		sprite "planet/Chlorine Atmosphere Yellow cities"
+		distance 500
+		period 500
+
+system Lalande
+	pos -857 -282
+	government Federation
+	link Blleia
+	link Demos
+	link Narcissus
+	"jump range" 40
+	trade Equipment 1250
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object Diva
+		sprite "planet/Class K cities"
+		distance 500
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system "Last Stop"
+	pos 614 -692
+	government Uninhabited
+	link For'U'Destro
+	link Mis'E'Odres
+	link Ver'E'Liani
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Last Chance"
+		sprite "planet/Rare Mineral Planet"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Lesten
+	pos -312 -574
+	government Federation
+	link Aral
+	link Reticent
+	link Space
+	"jump range" 40
+	trade Equipment 500
+	trade Food 450
+	object
+		sprite star/k5
+		period 10
+	object Menin
+		sprite "planet/Inhabited Asteroid"
+		distance 1000
+		period 500
+
+system Lil'E'Song
+	pos 474 -1067
+	government Uninhabited
+	link Far'E'Bunor
+	link Ran'E'Shepos
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Llearn
+	pos -1023 -353
+	government Uninhabited
+	link Blleia
+	link Estearll
+	link Manchester
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Llima
+	pos -891 516
+	government Moash
+	link Jerlyl
+	link Qreck
+	"jump range" 40
+	trade Equipment 500
+	trade Industrial 300
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Airfor
+		sprite "planet/Helium Xenon cities"
+		distance 1000
+		period 500
+
+system Llysla
+	pos -1084 -173
+	government Vell-os
+	link Allarei
+	link Kanto
+	link Mikhail
+	link Teft
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Llyrithra
+		sprite "planet/Dead World"
+		distance 1000
+		period 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Locuritas
+	pos -657 -627
+	government Pirate
+	link Agate
+	link Capella
+	"jump range" 40
+	trade Equipment 500
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Simpson
+		sprite "planet/Moon Metallic cities"
+		distance 500
+		period 500
+
+system Lotus
+	pos -779 -353
+	government Federation
+	link Avalon
+	link Demos
+	"jump range" 40
+	trade "Luxury Goods" 2000
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Serenity
+		sprite "planet/Class M Frosty cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system MAW
+	pos -101 -834
+	government Replicant
+	link Corvus
+	link Mallereth
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Mackle
+	pos -565 813
+	government Empire
+	link Fynar
+	link Rend
+	link Sale
+	link Schev
+	"jump range" 40
+	trade Equipment 500
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Mickle
+		sprite "planet/Helium Xenon cities"
+		distance 1000
+		period 500
+
+system Maker
+	pos -442 -435
+	government Uninhabited
+	link Claimer
+	link "Outpost 819"
+	link Vega
+	link "Wolf 359"
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Mallereth
+	pos -176.945 -856.449
+	government Uninhabited
+	link Aldebaran
+	link Bloodstone
+	link Denier
+	link MAW
+	link Teltar
+	link Tidbinbilla
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Malo
+	pos -222 409
+	government Heraan
+	link Inci
+	link Ivia
+	link Peflek
+	"jump range" 40
+	trade Equipment 1250
+	trade Industrial 900
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Tranquility
+		sprite "planet/Helium Xenon cities"
+		distance 1000
+		period 500
+		object Resilience
+			sprite "planet/Auroran Station side"
+			distance 500
+			period 500
+
+system Manchester
+	pos -1017 -300
+	government Federation
+	link Llearn
+	link Narcissus
+	link Tonallo
+	"jump range" 40
+	trade Equipment 500
+	trade Food 450
+	object
+		sprite star/k5
+		period 10
+	object Cornwall
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Manit
+	pos -810 90
+	government Uninhabited
+	link Belt
+	link Jocci
+	link Oban
+	link Queq
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Marion
+	pos 302 97
+	government Uninhabited
+	link Akasha
+	link Repede
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Mark
+	pos -40 -196
+	government Uninhabited
+	link Archenar
+	link Canopus
+	link Conden
+	link Eeniar
+	link Rautherion
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system McMurdo
+	pos -427 217
+	government Pirate
+	link HJG-1034
+	link Hannaford
+	link Iris
+	link Obatta
+	"jump range" 40
+	trade "Data Crystals" 525
+	trade Equipment 875
+	trade Food 300
+	trade Industrial 600
+	trade "Local Alcohols" 600
+	trade "Luxury Goods" 1500
+	trade Medical 1219
+	trade Metal 400
+	object
+		sprite star/k5
+		period 10
+	object Pan
+		sprite "planet/Arboreal World"
+		distance 500
+		period 500
+
+system Merrynne
+	pos -320 149
+	government Federation
+	link Tirna
+	link Yennin
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Hargen
+		sprite "planet/Moon Tectonic"
+		distance 500
+		period 500
+
+system Mes'E'Ruma
+	pos 735 -883
+	government Uninhabited
+	link Hel'A'Forius
+	link Ran'E'Shepos
+	link Sur'E'Qoru
+	link Tus'E'Viro
+	link Xym'E'Caros
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Metter
+	pos -564 -201
+	government Uninhabited
+	link Centauri
+	link "Nesre Secundus"
+	link Rimshot
+	link "Tau Ceti"
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Mikhail
+	pos -1069 -119
+	government Vella
+	link Llysla
+	link Olaralo
+	"jump range" 40
+	trade "Luxury Goods" 1000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Bolshevik
+		sprite "planet/Auroran Station side"
+		distance 1000
+		period 500
+
+system Mintaka
+	pos 367 -542
+	government Uninhabited
+	link Aludra
+	link Bellatrix
+	link Deb'I'Vad
+	link Serpentis
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Mis'E'Odres
+	pos 711 -708
+	government Uninhabited
+	link For'U'Destro
+	link "Last Stop"
+	link Tin'E'Tivel
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Mizar
+	pos -1160.17 -946.391
+	government Uninhabited
+	link Alcor
+	link "Dnun Har"
+	link Higiron
+	link Hogun
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Mjolnir
+	pos 423 71
+	government Nil'kemorya
+	link NGC-0500
+	link Z'heaj
+	link Za'krana
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Nil'a Mjolnir"
+		sprite "planet/Polaris Defence Station"
+		distance 1500
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 500
+			period 100
+
+system Moash
+	pos -721 574
+	government Moash
+	link Neck
+	link OG-MO
+	link Qreck
+	link Teckra
+	"jump range" 40
+	trade Food 450
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object "Moash Prime"
+		sprite "planet/Silicates Planet cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 500
+			offset 65
+
+system Moonrise
+	pos -571 -555
+	government Federation
+	link Agate
+	link Claimer
+	"jump range" 40
+	trade Food 450
+	trade "Luxury Goods" 2000
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Moonview
+		sprite "planet/Class M Water cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Moon Class K"
+			distance 500
+			period 500
+		object
+			sprite "planet/Moon Rocky"
+			distance 500
+			period 500
+			offset 250
+
+system Mu'hari
+	pos 1213 136
+	government Polaris
+	link Ki'manora
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object "Mu'ar Haro"
+		sprite "planet/Dark World cities"
+		distance 1000
+		period 360
+		object
+			sprite planet/Hypergate
+			distance 500
+			offset 65
+
+system Murasaki
+	pos -53 148
+	government Federation
+	link NGC-1170
+	link Tirna
+	"jump range" 40
+	trade Equipment 1250
+	trade "Local Alcohols" 1000
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Skye
+		sprite "planet/Class M Small cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 400
+			period 100
+
+system NGC-0500
+	pos 405 -44
+	government Uninhabited
+	link Mjolnir
+	link Nil'vran
+	link Polaris
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system NGC-1170
+	pos 25 123
+	government Uninhabited
+	link Gateway
+	link Jenner
+	link Murasaki
+	link OG-KA
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system NGC-1317
+	pos 169 -568
+	government Uninhabited
+	link Bur'I'Loc
+	link Codehaven
+	link Rigel
+	link Scheros
+	link Sedina
+	link Serpentis
+	link Threshold
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Nadir
+	pos -187 -220
+	government Federation
+	link Canopus
+	link Tenetria
+	"jump range" 40
+	trade Food 150
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Notas
+		sprite "planet/Class M Tectonic cities"
+		distance 500
+		period 500
+
+system Naka
+	pos -480 -305
+	government Uninhabited
+	link Centauri
+	link "Sol a"
+	link "Wolf 359"
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Narcissus
+	pos -920 -266
+	government Uninhabited
+	link Grak
+	link Hydden
+	link Kanto
+	link Kerella
+	link Lalande
+	link Manchester
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ne'helipar
+	pos 902 66
+	government Nil'kemorya
+	link Bis'usoca
+	link Kel'hepera
+	link Ne'ritai
+	link Tre'vasar
+	link Tri'cikilla
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Nil'a Ca"
+		sprite "planet/Polaris Defence Station"
+		distance 1000
+		period 500
+
+system Ne'mora
+	pos 914 -65
+	government Uninhabited
+	link Ne'ritai
+	link Til'hapin
+	link Tri'cikilla
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ne'prata
+	pos 485 -402
+	government Uninhabited
+	link K'minkek
+	link K'onl
+	link Nil'nesa
+	link Tri'lipra
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ne'ritai
+	pos 1035 -21
+	government Nil'kemorya
+	link G'amit
+	link Ki'manora
+	link Ne'helipar
+	link Ne'mora
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object "Nil'ar Riai"
+		sprite "planet/Class O cities"
+		distance 1000
+		period 500
+		object "Nil'a Vi"
+			sprite "planet/Polaris Defence Station"
+			distance 400
+			period 500
+
+system Neck
+	pos -590 643
+	government Moash
+	link Hiferryl
+	link Moash
+	link Pact
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Endurance
+		sprite "planet/Deimos Station"
+		distance 1000
+		period 500
+
+system Neilha
+	pos 448 875
+	government Tekel
+	link Gary
+	link Nutin
+	link OG-RO
+	link Pren
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Neilha Memorial"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Neirt
+	pos -547 446
+	government Uninhabited
+	link Alala
+	link Chirt
+	link Eplic
+	link Teckra
+	link Vestin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Nemesis
+	pos 18 -314
+	government Uninhabited
+	link Fomalhaut
+	link Rautherion
+	link Tichel
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system "Nesre Primus"
+	pos -187 -487
+	government Federation
+	link Boundary
+	link Pollux
+	"jump range" 40
+	trade "Luxury Goods" 2000
+	trade Medical 750
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "New Babylon"
+		sprite "planet/Moon Forest cities"
+		distance 1000
+		period 500
+		object "Spacedock IV"
+			sprite "planet/Federation Station"
+			distance 600
+			period 500
+			object
+				sprite planet/Hypergate
+				distance 500
+				offset 65
+
+system "Nesre Secundus"
+	pos -686 -66
+	government Roughnecks
+	link "Journey's End"
+	link Metter
+	link Yria
+	link Zalo
+	"jump range" 40
+	trade Equipment 1250
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Orange"
+		distance 1500
+		period 500
+		object "Pyrogenesis I"
+			sprite "planet/Skymining Pyrogenesis side orbiting"
+			distance 500
+			offset 300
+	object "Spacedock V"
+		sprite "planet/Federation Station"
+		distance 750
+		period 500
+		offset 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Nestin
+	pos -673.122 -1108.47
+	government Uninhabited
+	link Bellerophon
+	link Foroth
+	link Ganorran
+	link PsiD-4
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Nibos
+	pos 1021 566
+	government Empire
+	link Caldos
+	"jump range" 40
+	trade Food 150
+	trade Industrial 900
+	trade "Local Alcohols" 200
+	object
+		sprite star/k5
+		period 10
+	object "Nibos Prime"
+		sprite "planet/Moon Water"
+		distance 1000
+		period 500
+
+system Nicka
+	pos 899 594
+	government Tekel
+	link Caldos
+	link Kratos
+	link Tocc
+	link Zeles
+	"jump range" 40
+	trade Equipment 500
+	trade Food 450
+	object
+		sprite star/k5
+		period 10
+	object Nickas
+		sprite "planet/Class M Terraformed cities"
+		distance 1000
+		period 500
+		object "Tekel Supply Station"
+			sprite "planet/Auroran Station Triple side"
+			distance 500
+			period 500
+
+system Nil'blei
+	pos 837 -706
+	government Nil'kemorya
+	link Ki'actia
+	link Tus'E'Viro
+	"jump range" 40
+	trade Industrial 300
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object "Nil'ar Leir"
+		sprite "planet/Argon Atmosphere"
+		distance 1000
+		period 500
+		object "Nil'a Ni"
+			sprite "planet/Polaris Defence Station"
+			distance 400
+			period 500
+
+system Nil'ikro
+	pos 1028 283
+	government Nil'kemorya
+	link J'llon
+	link Kel'hepera
+	link Tre'pirana
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Nil'a Ya"
+		sprite "planet/Polaris Defence Station"
+		distance 1000
+		period 500
+
+system Nil'kemorya
+	pos 727 159
+	government Nil'kemorya
+	link Ferris
+	link J'narr
+	link K'marak
+	"jump range" 40
+	trade Equipment 500
+	trade Food 450
+	object
+		sprite star/k5
+		period 10
+	object "Nil'ar Kemorya"
+		sprite "planet/Class L"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 500
+			period 100
+
+system Nil'kol
+	pos 287 -267
+	government Nil'kemorya
+	link Algol
+	link Tri'niphu
+	"jump range" 40
+	trade Equipment 500
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Nil'ar Nina"
+		sprite "planet/Moon Dead"
+		distance 1000
+		period 500
+		object "Nil'a Se"
+			sprite "planet/Polaris Defence Station"
+			distance 400
+			period 500
+		object
+			sprite planet/Hypergate
+			distance 800
+			period 100
+
+system Nil'kvee
+	pos 332 -450
+	government Nil'kemorya
+	link Outbound
+	link Serpentis
+	link Tri'lipra
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Nil'a He"
+		sprite "planet/Polaris Defence Station"
+		distance 1000
+		period 500
+
+system Nil'nesa
+	pos 595 -520
+	government Nil'kemorya
+	link J'fhor
+	link Ne'prata
+	link Tre'erman
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Nil'ar Narada"
+		sprite "planet/Class M Water"
+		distance 1000
+		period 500
+
+system Nil'pesetra
+	pos 1151 -434
+	government Nil'kemorya
+	link K'falla
+	link Kel'fella
+	link Za'diti
+	"jump range" 40
+	trade Equipment 500
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Nil'ar Peset"
+		sprite "planet/Arboreal World"
+		distance 1000
+		period 500
+		object "Nil'a Do"
+			sprite "planet/Polaris Defence Station"
+			distance 400
+			period 500
+
+system Nil'vran
+	pos 330 -134
+	government Nil'kemorya
+	link K'onl
+	link NGC-0500
+	link P'napna
+	link Widow
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Nil'a Ro"
+		sprite "planet/Polaris Defence Station"
+		distance 1000
+		period 500
+
+system Nthaan
+	pos 1374 -983
+	government Uninhabited
+	link Pentori
+	link Ravelin
+	link S7evyn
+	link Varden
+	link Willon
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Numamba
+	pos -1012 -670
+	government Uninhabited
+	link K18
+	link K21
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Dark World"
+		distance 1000
+		period 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Nutin
+	pos 564 859
+	government Uninhabited
+	link Eguit
+	link Gary
+	link Neilha
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system OG-AB
+	pos 315 -355
+	government Uninhabited
+	link Tri'lipra
+	link Tri'niphu
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+
+system OG-AU
+	pos 63 808
+	government Uninhabited
+	link Amnaho
+	link Aurora
+	link Kine
+	link Olein
+	link Pimen
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 240
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 0
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 180
+
+system OG-CR
+	pos -436 -787
+	government Uninhabited
+	link Bloodstone
+	link Teleeli
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Hypergate side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate side"
+		distance 600
+		offset 270
+	object
+		sprite planet/Hypergate
+		distance 1200
+
+system OG-DA
+	pos 313 515
+	government Uninhabited
+	link Himear
+	link Kilik
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 120
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 240
+
+system OG-DR
+	pos 815 -352
+	government Uninhabited
+	link K'yapta
+	link Kel'ariy
+	link Tre'helov
+	link Za'iuso
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 240
+
+system OG-EN
+	pos -437 951
+	government Uninhabited
+	link Firmantar
+	link Odnan
+	link Schev
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 75
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 345
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 180
+
+system OG-HE
+	pos -188 517
+	government Uninhabited
+	link Heraan
+	link Lacora
+	link Saal
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+
+system OG-HO
+	pos 1064 82
+	government Uninhabited
+	link Bis'usoca
+	link Ki'manora
+	link Tre'petaka
+	link Tre'pirana
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 0
+
+system OG-KA
+	pos 64 82
+	government Uninhabited
+	link Kania
+	link Kuon
+	link NGC-1170
+	link SPC-1927
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 120
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 240
+
+system OG-MO
+	pos -685 514
+	government Uninhabited
+	link Chirt
+	link Jerlyl
+	link Moash
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 270
+
+system OG-PO
+	pos 563 81
+	government Uninhabited
+	link K'marak
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 180
+
+system OG-PR
+	pos -185 -352
+	government Uninhabited
+	link Altair
+	link Arcturus
+	link Fomalhaut
+	link "Outpost 819"
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 120
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 240
+
+system OG-RA
+	pos -1437 -790
+	government Uninhabited
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 120
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 240
+
+system OG-RO
+	pos 565 806
+	government Uninhabited
+	link Kipa
+	link Neilha
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 120
+
+system OG-SE
+	pos -438 80
+	government Uninhabited
+	link Hannaford
+	link Spica
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 330
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 120
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 240
+
+system OG-SH
+	pos 64 -789
+	government Uninhabited
+	link Corvus
+	link Scheall
+	link Ukari
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Hypergate side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate side"
+		distance 600
+		offset 270
+	object
+		sprite planet/Hypergate
+		distance 1200
+		offset 180
+
+system OG-SO
+	pos -687 -352
+	government Uninhabited
+	link Centauri
+	link Glimmer
+	link Procyon
+	link Trishka
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 180
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 300
+
+system OG-TE
+	pos 814 518
+	government Uninhabited
+	link Rome
+	link Tekel
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 210
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 60
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 240
+
+system OG-TW
+	pos -935 -789
+	government Uninhabited
+	link K20
+	link K48
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 270
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 0
+
+system OG-VE
+	pos -938 80
+	government Uninhabited
+	link Hevel
+	link Jocci
+	link Queq
+	link Vella
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 30
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 90
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 150
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+	object
+		sprite "planet/Hypergate Deactivated"
+		distance 1200
+		offset 180
+
+system OG-VO
+	pos -1186 -353
+	government Uninhabited
+	link Dellor
+	"jump range" 40
+	object
+		sprite star/nova
+		period 10
+	object
+		sprite "planet/Hypergate Deactivated side"
+		distance 600
+		offset 120
+
+system Oban
+	pos -807 -78
+	government Uninhabited
+	link Hydden
+	link Inkira
+	link Manit
+	link Uvon
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Obatta
+	pos -344 243
+	government Uninhabited
+	link Iris
+	link McMurdo
+	link Tuatha
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Odnan
+	pos -491 1036
+	government Uninhabited
+	link Firmantar
+	link Futurend
+	link OG-EN
+	link Schev
+	link Sonete
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ofine
+	pos 200 807
+	government Uninhabited
+	link Amnaho
+	link Aplix
+	link Aurora
+	link Pren
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Okiia
+	pos -280 676
+	government Heraan
+	link Aalolph
+	link Saal
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Purple"
+		distance 1000
+		period 500
+		object Alertness
+			sprite "planet/Auroran Station side"
+			distance 500
+			period 500
+
+system Olaralo
+	pos -983 -89
+	government Vella
+	link Hydden
+	link Mikhail
+	link Shel
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	object
+		sprite star/k5
+		period 10
+	object "Adek Loral"
+		sprite "planet/Class M Terraformed cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Olein
+	pos -17 857
+	government Empire
+	link Issar
+	link OG-AU
+	"jump range" 40
+	trade Industrial 300
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Olos
+		sprite "planet/Bacterial Sludge cities"
+		distance 1000
+		period 500
+
+system Outbound
+	pos 237 -412
+	government Independent
+	link Algol
+	link Nil'kvee
+	link Threshold
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 450
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Vrenna
+		sprite "planet/Moon Ice"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system "Outpost 819"
+	pos -301 -420
+	government Federation
+	link Maker
+	link OG-PR
+	link Pollux
+	"jump range" 40
+	trade Industrial 300
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Gineia
+		sprite "planet/Chlorine Atmosphere Yellow cities"
+		distance 1000
+		period 500
+
+system Over
+	pos 730 439
+	government Tekel
+	link Fallen
+	link Kratos
+	link Reer
+	link Zeles
+	"jump range" 40
+	trade Industrial 300
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Gladius
+		sprite "planet/Biohazardous cities"
+		distance 1000
+		period 500
+		object "Gladius Shipyards"
+			sprite "planet/Deimos Station Double"
+			distance 500
+			period 500
+
+system Ovia
+	pos -738 143
+	government Vella
+	link Belt
+	link Reacher
+	link Uvon
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Vella LP #3"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system P'aedt
+	pos 1158 -622
+	government Polaris
+	link J'raphit
+	link K'falla
+	link Ki'ade
+	"jump range" 40
+	trade Equipment 1250
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object "P'ar Aed"
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system P'ecksa
+	pos 781 -467
+	government Polaris
+	link F'onora
+	link K'minkek
+	link Tre'helov
+	"jump range" 40
+	trade Equipment 500
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object "P'ar Veraniso"
+		sprite "planet/Class M Frosty"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Polaris Skystation"
+			distance 100
+			period 500
+
+system P'napna
+	pos 483 -90
+	government Polaris
+	link K'marak
+	link K'onl
+	link Nil'vran
+	link Za'krana
+	"jump range" 40
+	trade Equipment 500
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Helium Xenon"
+		distance 1000
+		period 500
+		object "P'a He"
+			sprite "planet/Polaris Station"
+			distance 200
+			period 200
+
+system P'omlpha
+	pos 1233 -164
+	government Polaris
+	link Z'elta
+	"jump range" 40
+	trade Equipment 500
+	trade Industrial 900
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "P'a Ro"
+		sprite "planet/Polaris Station"
+		distance 500
+		period 360
+
+system POTENTIAL
+	pos -71.0799 -965.441
+	government Replicant
+	link DESTINY
+	link FATE
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Pact
+	pos -680 675
+	government Uninhabited
+	link Fynar
+	link Neck
+	link Qreck
+	link Sect
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Peacock
+	pos 437 -575
+	government Uninhabited
+	link Bellatrix
+	link Kor'D'On
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Peflek
+	pos -103 413
+	government Uninhabited
+	link Cove
+	link Heraan
+	link Malo
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Pentori
+	pos 1434 -905
+	government Independent
+	link Nthaan
+	link Ravelin
+	"jump range" 40
+	trade Equipment 1250
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object Soth
+		sprite "planet/Chlorine Atmosphere cities"
+		distance 1000
+		period 500
+
+system Petra
+	pos -26 -687
+	government Uninhabited
+	link Aldebaran
+	link Corvus
+	link Horizon
+	link Rigel
+	link Scheros
+	link Sedina
+	link Tidbinbilla
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Helium Xenon"
+		distance 500
+		period 500
+
+system Pilot
+	pos 575 381
+	government Empire
+	link Boro
+	link Caryo
+	link Fallen
+	link Iplik
+	link J'narr
+	link Reer
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Atar
+		sprite "planet/Rare Mineral Planet cities"
+		distance 1000
+		period 500
+
+system Pimen
+	pos 83 689
+	government Dechtakar
+	link Freya
+	link Gulag
+	link OG-AU
+	"jump range" 40
+	trade Food 450
+	trade "Luxury Goods" 1000
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Rimerta
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+
+system Pippa
+	pos 646 739
+	government Uninhabited
+	link Kipa
+	link Smada
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Polaris
+	pos 372 12
+	government Uninhabited
+	link Antares
+	link Kanius
+	link NGC-0500
+	link Sender
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Pollux
+	pos -241 -451
+	government Uninhabited
+	link Aral
+	link Arcturus
+	link "Nesre Primus"
+	link "Outpost 819"
+	link Tenetria
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Pontoll
+	pos -787 -485
+	government Uninhabited
+	link Agate
+	link Avalon
+	link Enlightenment
+	link Sibko
+	link Systoll
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system "Porto Rillia"
+	pos -322 15
+	government Federation
+	link Canopus
+	link Jenner
+	link Yennin
+	"jump range" 40
+	trade Equipment 527
+	trade Industrial 960
+	object
+		sprite star/k5
+		period 10
+	object Ryll
+		sprite "planet/Class O cities"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated side"
+			distance 600
+			period 100
+
+system Pren
+	pos 261 858
+	government Empire
+	link Neilha
+	link Ofine
+	link Renan
+	"jump range" 40
+	trade "Luxury Goods" 1000
+	trade Medical 1688
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Ginka
+		sprite "planet/Gas Giant Rings"
+		distance 1000
+		period 500
+
+system Procyon
+	pos -698 -406
+	government Uninhabited
+	link Avalon
+	link OG-SO
+	link Sibko
+	link Trishka
+	"jump range" 40
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object UHP-1002
+		sprite "planet/Chlorine Atmosphere Yellow"
+		distance 500
+		period 500
+	object
+		sprite "planet/Bacterial Sludge"
+		distance 500
+		period 500
+		offset 150
+
+system PsiD-1
+	pos -956 -595
+	government Uninhabited
+	link K7
+	link Systoll
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/CC Station Small"
+		distance 1000
+		period 500
+
+system PsiD-2
+	pos -1206.21 -631.572
+	government Uninhabited
+	link K8
+	link Uriall
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/CC Station Small"
+		distance 1000
+		period 500
+
+system PsiD-3
+	pos -560 -780
+	government Uninhabited
+	link "Barnard's Star"
+	link K3
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/CC Station Small"
+		distance 1000
+		period 500
+
+system PsiD-4
+	pos -714.544 -1069.31
+	government Uninhabited
+	link K4
+	link Nestin
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/CC Station Small"
+		distance 1000
+		period 500
+
+system PsiD-5
+	pos -949 -924
+	government Uninhabited
+	link K9
+	link Residio
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/CC Station Small"
+		distance 1000
+		period 500
+
+system Qellan
+	pos -1318 -488
+	government Uninhabited
+	link Allarei
+	link Dellor
+	link Illiask
+	link Uriall
+	link Vellos
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Qreck
+	pos -832 589
+	government Uninhabited
+	link Llima
+	link Moash
+	link Pact
+	link Sect
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Quandary
+	pos -125 -333
+	government Uninhabited
+	link Boundary
+	link Fomalhaut
+	link Tenetria
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Queq
+	pos -905 114
+	government Vella
+	link Manit
+	link OG-VE
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	object
+		sprite star/k5
+		period 10
+	object Firebrand
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+
+system REUNION
+	pos 23.1475 -917.764
+	government Replicant
+	link CHIMAERA
+	link CLASH
+	link DESTRUCTION
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ran'E'Shepos
+	pos 682 -996
+	government Uninhabited
+	link Iwo'U'Sentar
+	link Lil'E'Song
+	link Mes'E'Ruma
+	link Ser'E'Ousa
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Rautherion
+	pos -73 -286
+	government Federation
+	link Mark
+	link Nemesis
+	"jump range" 40
+	trade Equipment 500
+	trade Industrial 900
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Blue"
+		distance 1400
+		period 500
+		object Rauther
+			sprite "planet/Moon Metallic cities"
+			distance 800
+			period 500
+			object
+				sprite "planet/Hypergate Deactivated side"
+				distance 300
+				period 100
+
+system Ravelin
+	pos 1414 -807
+	government Uninhabited
+	link Chicea
+	link Nthaan
+	link Pentori
+	link S7evyn
+	link Willon
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Rcaris
+	pos 55 433
+	government Uninhabited
+	link Freya
+	link Hope
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Reacher
+	pos -736 230
+	government Uninhabited
+	link Biri
+	link Ovia
+	link Xante
+	link Yria
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Reap
+	pos -790 340
+	government Moash
+	link Biri
+	link Felos
+	link Jerlyl
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object Stlap
+		sprite "planet/Arboreal World cities"
+		distance 1000
+		period 500
+		object Courageous
+			sprite "planet/Auroran Station Triple side"
+			distance 500
+			period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system "Red Winged Blackbird"
+	pos -210.163 -22.8856
+	government NebulaTank
+	link Jenner
+	"jump range" 40
+	object "Neon Station"
+		sprite planet/Racetrack
+		object "Clear Arena"
+			sprite "planet/CC Station Small"
+			distance 500
+			period 500
+			offset 250
+
+system Reer
+	pos 610 464
+	government Tekel
+	link Aradne
+	link Over
+	link Pilot
+	link Reeva
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Tekel LP"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Reeva
+	pos 706 547
+	government Tekel
+	link Aradne
+	link Kratos
+	link Reer
+	trade Equipment 1250
+	trade Medical 1688
+	trade Metal 200
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Stewardship
+		sprite "planet/Deimos Station"
+		distance 1000
+		period 500
+
+system Renan
+	pos 214 668
+	government Dani
+	link Aplix
+	link Dani
+	link Freya
+	link Himear
+	link Pren
+	"jump range" 40
+	trade Industrial 300
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Ormond
+		sprite "planet/Helium Xenon cities"
+		distance 1000
+		period 500
+
+system Rend
+	pos -489 766
+	government Empire
+	link Bluyo
+	link Hiferryl
+	link Mackle
+	link Schev
+	"jump range" 40
+	trade Industrial 300
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object Pand
+		sprite "planet/Argon Atmosphere cities"
+		distance 1000
+		period 500
+
+system Repede
+	pos 226 74
+	government Uninhabited
+	link Kanius
+	link Marion
+	link SPC-1927
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Residio
+	pos -979 -951
+	government Uninhabited
+	link PsiD-5
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Reticent
+	pos -318 -644
+	government Uninhabited
+	link Alesia
+	link Baltar
+	link Lesten
+	link Venture
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Rigel
+	pos 67 -622
+	government Federation
+	link NGC-1317
+	link Petra
+	link Scheros
+	link Sedina
+	"jump range" 40
+	trade Industrial 300
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object "Rigel III"
+		sprite "planet/Bacterial Sludge"
+		distance 750
+		period 500
+	object "Neo New York"
+		sprite "planet/Methane Atmosphere"
+		distance 1000
+		period 500
+		offset 150
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Rimshot
+	pos -684 -223
+	government Federation
+	link Demos
+	link Kerella
+	link Metter
+	"jump range" 40
+	trade Industrial 900
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object GLi-Tech-nia
+		sprite "planet/Helium Xenon cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Rome
+	pos 926 484
+	government Tekel
+	link Caldos
+	link Grip
+	link OG-TE
+	"jump range" 40
+	trade Industrial 300
+	trade "Luxury Goods" 1000
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Romule
+		sprite "planet/Chlorine Atmosphere Yellow cities"
+		distance 1000
+		period 500
+
+system S7evyn
+	pos 1233 -805
+	government ATMOS
+	link Chicea
+	link Nthaan
+	link Ravelin
+	link Willon
+	"jump range" 40
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Ar'Za Oryhara"
+		sprite "planet/Messian Grave"
+		distance 1000
+		period 500
+
+system SPC-0193
+	pos -337.87 -1099.09
+	government Uninhabited
+	link Evlei
+	link SPC-1555
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system SPC-1555
+	pos -405.95 -1041.03
+	government Uninhabited
+	link Koria
+	link SPC-0193
+	link SPC-2710
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system SPC-1927
+	pos 143 123
+	government Pirate
+	link Gateway
+	link OG-KA
+	link Repede
+	"jump range" 40
+	trade "Data Crystals" 525
+	trade Equipment 875
+	trade Food 300
+	trade Industrial 600
+	trade "Local Alcohols" 600
+	trade "Luxury Goods" 1500
+	trade Medical 1219
+	trade Metal 400
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Orange"
+		distance 1500
+		period 500
+		object UHP-0164
+			sprite "planet/Moon Metallic"
+			distance 1000
+			offset 300
+
+system SPC-1948
+	pos 33 306
+	government Empire
+	link Unin
+	link Uroa
+	link Vemap
+	link Wittor
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Empire LP IV"
+		sprite "planet/Auroran Station side"
+		distance 1000
+		period 500
+
+system SPC-2710
+	pos -454 -981
+	government Uninhabited
+	link Denier
+	link SPC-1555
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Saal
+	pos -269 568
+	government Heraan
+	link Inci
+	link Lacora
+	link OG-HE
+	link Okiia
+	"jump range" 40
+	trade Food 150
+	trade "Luxury Goods" 1000
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Latin
+		sprite "planet/Class M Frosty cities"
+		distance 1000
+		period 500
+		object Etrusca
+			sprite "planet/Auroran Station Triple side"
+			distance 500
+			period 500
+
+system Sale
+	pos -566 949
+	government Uninhabited
+	link Mackle
+	link Sonete
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Sanddown
+	pos -188 -65
+	government Federation
+	link Canopus
+	link Jenner
+	"jump range" 40
+	trade Industrial 300
+	trade "Luxury Goods" 2000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Kinike
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+		object Kolan
+			sprite "planet/Moon Forest cities"
+			distance 600
+			period 500
+			object "Spacedock II"
+				sprite "planet/Federation Station"
+				distance 300
+				period 500
+
+system Scheall
+	pos 108 -740
+	government Pirate
+	link OG-SH
+	link Ukari
+	"jump range" 40
+	trade "Data Crystals" 525
+	trade Equipment 1250
+	trade Food 450
+	trade Industrial 900
+	trade "Local Alcohols" 1000
+	trade "Luxury Goods" 2000
+	trade Medical 1688
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Harbor
+		sprite "planet/CC Station Small side"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Scheros
+	pos 18 -557
+	government Uninhabited
+	link Boundary
+	link Codehaven
+	link NGC-1317
+	link Petra
+	link Rigel
+	link Tidbinbilla
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Schev
+	pos -486 858
+	government Uninhabited
+	link Firmantar
+	link Mackle
+	link OG-EN
+	link Odnan
+	link Rend
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Sect
+	pos -789 690
+	government Empire
+	link Pact
+	link Qreck
+	"jump range" 40
+	trade Food 150
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Gungungun
+		sprite "planet/Class M Water"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Sedina
+	pos 138 -670
+	government Uninhabited
+	link NGC-1317
+	link Petra
+	link Rigel
+	link Ukari
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Sel'I'Gal
+	pos 311 -835
+	government Uninhabited
+	link Dal'U'Sinto
+	link Fer'L'Jus
+	link Vyl'E'Tinti
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Sender
+	pos 388 173
+	government Uninhabited
+	link Boro
+	link Confluence
+	link Polaris
+	link Z'heaj
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ser'E'Ousa
+	pos 847 -851
+	government Uninhabited
+	link Ran'E'Shepos
+	link Tus'E'Viro
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Serpentis
+	pos 297 -523
+	government Uninhabited
+	link Deb'I'Vad
+	link Mintaka
+	link NGC-1317
+	link Nil'kvee
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Shel
+	pos -1047 -60
+	government Uninhabited
+	link Olaralo
+	link Teft
+	link Vella
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Sibko
+	pos -680 -494
+	government Federation
+	link Pontoll
+	link Procyon
+	"jump range" 40
+	trade Equipment 500
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object Kerensky
+		sprite "planet/Moon Tectonic"
+		distance 500
+		period 500
+
+system Sirius
+	pos 62 -50
+	government Federation
+	link Antares
+	link Conden
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		distance 100
+		period 10
+	object
+		sprite star/k5
+		distance 100
+		period 10
+		offset 90
+	object
+		sprite star/k5
+		distance 100
+		period 10
+		offset 180
+	object
+		sprite star/k5
+		distance 100
+		period 10
+		offset 270
+	object
+		sprite planet/pixel
+		distance 1500
+		period 500
+		object "Sirius Prime"
+			sprite "planet/Class K"
+			distance 500
+			period 500
+		object "Sirius II"
+			sprite "planet/Rare Mineral Planet cities"
+			distance 500
+			period 500
+			offset 180
+
+system Smada
+	pos 740 773
+	government Uninhabited
+	link Eguit
+	link Kontik
+	link Kymon
+	link Pippa
+	link Tekel
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system "Sol a"
+	pos -435 -244
+	government Federation
+	link Naka
+	link "Sol b"
+	link "Sol c"
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Earth
+		sprite "planet/Artificial Ringed World"
+		distance 500
+		period 500
+
+system "Sol b"
+	pos -403 -189
+	government Federation
+	link Canopus
+	link "Sol a"
+	link "Sol c"
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object Mars
+		sprite planet/Mars
+		distance 1000
+		period 500
+		object "Hunter Station"
+			sprite "planet/CC Station Small side"
+			distance 400
+			offset 300
+
+system "Sol c"
+	pos -469 -192
+	government Federation
+	link "Sol a"
+	link "Sol b"
+	link "Tau Ceti"
+	"jump range" 40
+	trade "Luxury Goods" 1000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/Jupiter
+		distance 1000
+		period 500
+		object Europa
+			sprite planet/Europa
+			distance 750
+			period 500
+
+system Sonete
+	pos -568 1082
+	government Empire
+	link Futurend
+	link Odnan
+	link Sale
+	"jump range" 40
+	trade Food 450
+	trade "Luxury Goods" 1000
+	object
+		sprite star/k5
+		period 10
+	object Lobos
+		sprite "planet/Biohazardous cities"
+		distance 1000
+		period 500
+
+system Space
+	pos -418 -572
+	government Uninhabited
+	link Aral
+	link Capella
+	link Claimer
+	link Lesten
+	link Vega
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Spica
+	pos -512 65
+	government Uninhabited
+	link Alphara
+	link HJG-0637
+	link Hannaford
+	link "Journey's End"
+	link OG-SE
+	link Yennin
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Spica
+		sprite "planet/Methane Atmosphere"
+		distance 500
+		period 500
+
+system Sur'E'Qoru
+	pos 523 -718
+	government Uninhabited
+	link Cros'T'Road
+	link Gan'U'Tornes
+	link Iwo'U'Sentar
+	link Mes'E'Ruma
+	link Ver'E'Liani
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Systoll
+	pos -940 -558
+	government Uninhabited
+	link Jellosia
+	link Pontoll
+	link PsiD-1
+	link Yllar
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system TERMINUS
+	pos 205.602 -867.959
+	government Uninhabited
+	link CHALLENGE
+	link GATE
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system "Tau Ceti"
+	pos -577 -127
+	government Federation
+	link HJG-0637
+	link Metter
+	link "Sol c"
+	"jump range" 40
+	trade Equipment 500
+	trade Food 150
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Purple"
+		distance 750
+		period 500
+		offset 500
+	object "Tau Prime"
+		sprite "planet/Class M Water"
+		distance 900
+		period 500
+		object "Tau II"
+			sprite "planet/Moon Rare Mineral"
+			distance 500
+			period 100
+
+system Teckra
+	pos -600 567
+	government Moash
+	link Moash
+	link Neirt
+	"jump range" 40
+	trade Equipment 1250
+	trade Industrial 900
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Feret
+		sprite "planet/Ice Planet"
+		distance 1000
+		period 500
+
+system Teft
+	pos -1146 -81
+	government Empire
+	link Llysla
+	link Shel
+	"jump range" 40
+	trade Food 450
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Daor
+		sprite "planet/Dead World"
+		distance 1000
+		period 500
+
+system Tekel
+	pos 786 627
+	government Tekel
+	link Kratos
+	link OG-TE
+	link Smada
+	link Tocc
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object "Tekel Prime"
+		sprite "planet/Dark World cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Teleeli
+	pos -438 -742
+	government Uninhabited
+	link Baltar
+	link "Barnard's Star"
+	link Homeland
+	link OG-CR
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Teltar
+	pos -288.32 -940.167
+	government Uninhabited
+	link Denier
+	link Koria
+	link Mallereth
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Tenetria
+	pos -209 -288
+	government Uninhabited
+	link Altair
+	link Canopus
+	link Nadir
+	link Pollux
+	link Quandary
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Terval
+	pos -253 902
+	government Empire
+	link Bluyo
+	link Cworn
+	link Firmantar
+	link Issar
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Valoria
+		sprite "planet/Class L"
+		distance 1000
+		period 500
+
+system Threshold
+	pos 173 -438
+	government Uninhabited
+	link Algol
+	link NGC-1317
+	link Outbound
+	link Tichel
+	"jump range" 40
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Tichel
+	pos 124 -324
+	government Federation
+	link Algol
+	link Antares
+	link Codehaven
+	link Eeniar
+	link Nemesis
+	link Threshold
+	"jump range" 40
+	trade "Luxury Goods" 2000
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object Viking
+		sprite "planet/Class M Polluted cities"
+		distance 1000
+		period 500
+		object "Spacedock VII"
+			sprite "planet/Federation Battle Station"
+			distance 600
+			period 500
+			object
+				sprite planet/Hypergate
+				distance 500
+				offset 65
+
+system Tidbinbilla
+	pos -174 -706
+	government Uninhabited
+	link Aldebaran
+	link Baltar
+	link Bloodstone
+	link Gefjon
+	link Mallereth
+	link Petra
+	link Scheros
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object LPAD
+		sprite "planet/CC Station Abandoned"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Til'hapin
+	pos 993 -174
+	government Polaris
+	link Ne'mora
+	link Tre'minor
+	link Ver'ashan
+	link Ver'ikar
+	"jump range" 40
+	trade Equipment 500
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Tre'a Se"
+		sprite "planet/Polaris Station"
+		distance 500
+		period 500
+
+system Til'kolecto
+	pos 653 -65
+	government Polaris
+	link Bis'valalo
+	link K'marak
+	link Tre'illica
+	link Tri'cikilla
+	"jump range" 40
+	trade Equipment 500
+	trade Food 150
+	trade Industrial 300
+	trade "Luxury Goods" 1000
+	trade Medical 750
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object "Tre'a Ro"
+		sprite "planet/Polaris Station"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Tin'E'Tivel
+	pos 513 -885
+	government Uninhabited
+	link Cros'T'Road
+	link Dal'U'Sinto
+	link Iwo'U'Sentar
+	link Mis'E'Odres
+	link Ver'E'Liani
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Tiria
+	pos 824 223
+	government Uninhabited
+	link Caryo
+	link Fallen
+	link J'llon
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Tirna
+	pos -141 134
+	government Uninhabited
+	link Galvan
+	link Jenner
+	link Merrynne
+	link Murasaki
+	link Tuatha
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Tocc
+	pos 869 716
+	government Uninhabited
+	link Nicka
+	link Tekel
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Cunja Loff"
+		sprite "planet/Moon Forest"
+		distance 1000
+		period 500
+
+system Tonallo
+	pos -1173 -287
+	government Uninhabited
+	link Allarei
+	link Dellor
+	link Kanto
+	link Manchester
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Tre'erman
+	pos 742 -577
+	government Polaris
+	link F'onora
+	link Ki'actia
+	link Nil'nesa
+	link Ver'asplast
+	"jump range" 40
+	trade Industrial 900
+	trade "Luxury Goods" 1000
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Erma"
+		sprite "planet/Methane Atmosphere"
+		distance 1000
+		period 500
+		object "Tre'a Vi"
+			sprite "planet/Polaris Station"
+			distance 400
+			period 500
+
+system Tre'helov
+	pos 912 -426
+	government Polaris
+	link OG-DR
+	link P'ecksa
+	link Ver'ashan
+	"jump range" 40
+	trade Food 450
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Teschesch"
+		sprite "planet/Rare Mineral Planet cities"
+		distance 1000
+		period 500
+
+system Tre'illica
+	pos 571 -175
+	government Polaris
+	link K'onl
+	link Til'kolecto
+	link Z'precti
+	"jump range" 40
+	trade Equipment 1250
+	trade Food 150
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Segmented Ringworld"
+		object "Tre'ar Helonis"
+			sprite planet/helonis
+			distance 300
+			offset 58
+		object
+			sprite planet/Hypergate
+			distance 1000
+			period 100
+
+system Tre'minor
+	pos 1103 -163
+	government Polaris
+	link G'amit
+	link Til'hapin
+	link Z'elta
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Varia"
+		sprite "planet/Gas Giant Blue"
+		distance 2000
+		period 360
+		object
+			sprite "planet/Skymining Polaris"
+			distance 350
+		object
+			sprite "planet/Skymining Polaris"
+			distance 350
+			offset 60
+		object
+			sprite "planet/Skymining Polaris"
+			distance 250
+			offset 120
+		object "Tre'a Ca"
+			sprite "planet/Polaris Station"
+			distance 750
+			period 360
+			offset 180
+
+system Tre'olepla
+	pos 1106 -325
+	government Polaris
+	link Kel'fella
+	link Z'elta
+	link Za'diti
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite "planet/Neutron Star"
+		period 10
+	object "Tre'a Do"
+		sprite "planet/Polaris Station"
+		distance 500
+		period 360
+
+system Tre'petaka
+	pos 1101 161
+	government Polaris
+	link Ki'manora
+	link OG-HO
+	link Tre'pirana
+	"jump range" 40
+	trade Medical 1688
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Petak"
+		sprite "planet/Class M Small"
+		distance 500
+		period 360
+
+system Tre'pirana
+	pos 1042 218
+	government Polaris
+	link Nil'ikro
+	link OG-HO
+	link Tre'petaka
+	"jump range" 40
+	trade Food 150
+	trade Industrial 300
+	trade "Local Alcohols" 1000
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Pira"
+		sprite "planet/Class M cities"
+		distance 500
+		period 360
+	object "Tre'ar Vano"
+		sprite "planet/Gas Giant Purple"
+		distance 1000
+		period 360
+		offset 180
+		object
+			sprite "planet/Skymining Polaris side orbiting"
+			distance 250
+			offset 300
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Tre'vasar
+	pos 742 86
+	government Polaris
+	link K'marak
+	link Ne'helipar
+	"jump range" 40
+	trade Equipment 1250
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Illini"
+		sprite "planet/Arboreal World"
+		distance 1000
+		period 500
+
+system Tri'cikilla
+	pos 781 -24
+	government Polaris
+	link Bis'routak
+	link K'marak
+	link Ne'helipar
+	link Ne'mora
+	link Til'kolecto
+	"jump range" 40
+	trade Food 150
+	trade Metal 600
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Vilarn"
+		sprite "planet/Class M Water"
+		distance 1000
+		period 500
+
+system Tri'lipra
+	pos 415 -386
+	government Polaris
+	link Ne'prata
+	link Nil'kvee
+	link OG-AB
+	"jump range" 40
+	trade Industrial 300
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Aeberl"
+		sprite "planet/Arboreal World"
+		distance 1000
+		period 500
+		object "Tre'a He"
+			sprite "planet/Polaris Skystation"
+			distance 200
+			period 500
+
+system Tri'niphu
+	pos 393 -291
+	government Polaris
+	link K'onl
+	link Nil'kol
+	link OG-AB
+	"jump range" 40
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object "Tre'ar Zalom"
+		sprite "planet/Moon Water"
+		distance 1000
+		period 500
+
+system Trishka
+	pos -571 -420
+	government Federation
+	link Claimer
+	link OG-SO
+	link Procyon
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object Misfire
+		sprite "planet/Class M Small cities"
+		distance 500
+		period 500
+
+system Tuatha
+	pos -186 226
+	government "Wild Geese"
+	link Obatta
+	link Tirna
+	link Xell
+	"jump range" 40
+	trade Food 150
+	trade "Local Alcohols" 300
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object "New Ireland"
+		sprite "planet/Class M Small cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Tuente
+	pos -411 397
+	government Uninhabited
+	link Astra
+	link Iris
+	link Vantra
+	link Vestin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Tural
+	pos 410 629
+	government Uninhabited
+	link Aradne
+	link Kilik
+	link Zipa
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object Turalis
+		sprite "planet/Moon Ice"
+		distance 1000
+		period 500
+
+system Tus'E'Viro
+	pos 784 -789
+	government Uninhabited
+	link Mes'E'Ruma
+	link Nil'blei
+	link Ser'E'Ousa
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Typin
+	pos -150 654
+	government Uninhabited
+	link Gulag
+	link Lacora
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ukari
+	pos 202 -777
+	government Uninhabited
+	link Fer'L'Jus
+	link OG-SH
+	link Scheall
+	link Sedina
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Umbira
+	pos -958.512 -1046.1
+	government Uninhabited
+	habitable 486.68
+	belt 1263
+	link Alcor
+	link Higiron
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Unin
+	pos 214.112 296.702
+	government Empire
+	link Aria
+	link Confluence
+	link Iplik
+	link SPC-1948
+	link Uroa
+	link Wittor
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Empire LP V"
+		sprite "planet/Auroran Station side"
+		distance 1000
+		period 500
+
+system Uriall
+	pos -1228 -591
+	government Uninhabited
+	link Jellosia
+	link PsiD-2
+	link Qellan
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Uroa
+	pos 130 257
+	government Uninhabited
+	link Confluence
+	link Gateway
+	link SPC-1948
+	link Unin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Uvon
+	pos -740 8
+	government Vella
+	link Jocci
+	link Oban
+	link Ovia
+	link Yria
+	link Zalo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Vella LP #2"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Vantra
+	pos -406 463
+	government Heraan
+	link Astra
+	link Khyste
+	link Tuente
+	link Vestin
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Heraan LP - 'Arik'"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Varden
+	pos 1271 -981
+	government Independent
+	link Nthaan
+	"jump range" 40
+	trade Equipment 500
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object Luminary
+		sprite "planet/Class M Tectonic cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Vega
+	pos -404 -497
+	government Federation
+	link Maker
+	link Space
+	"jump range" 40
+	trade Food 150
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object Vega
+		sprite "planet/Class M"
+		distance 1000
+		period 500
+		object
+			sprite "planet/Hypergate Deactivated"
+			distance 600
+			period 100
+
+system Vella
+	pos -1006 16
+	government Vella
+	link Ento
+	link Erante
+	link OG-VE
+	link Shel
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	trade "Local Alcohols" 300
+	trade "Luxury Goods" 2000
+	object
+		sprite star/k5
+		period 10
+	object "Vella Prime"
+		sprite "planet/Class M Tectonic cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Vellos
+	pos -1180 -450
+	government Vell-os
+	link Dellor
+	link Illiask
+	link Qellan
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Vellos Prime"
+		sprite "planet/Dead World"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Vemap
+	pos -64 367
+	government Heraan
+	link Cove
+	link SPC-1948
+	link Wittor
+	link Xell
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Heraan LP - 'Heraan'"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Venture
+	pos -208 -556
+	government Uninhabited
+	link Aral
+	link Boundary
+	link Gefjon
+	link Reticent
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ver'E'Liani
+	pos 544 -626
+	government Uninhabited
+	link For'U'Destro
+	link J'fhor
+	link Kor'D'On
+	link "Last Stop"
+	link Sur'E'Qoru
+	link Tin'E'Tivel
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Ver'ashan
+	pos 991 -314
+	government Polaris
+	link Kel'fella
+	link Til'hapin
+	link Tre'helov
+	"jump range" 40
+	trade Industrial 900
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object "Ver'ar Shan"
+		sprite "planet/Class O cities"
+		distance 1000
+		period 360
+		object "Ver'ar Sho"
+			sprite "planet/Moon Dead"
+			distance 400
+			period 360
+		object
+			sprite planet/Hypergate
+			distance 700
+			period 100
+
+system Ver'asplast
+	pos 902 -556
+	government Polaris
+	link F'onora
+	link Kel'fella
+	link Ki'actia
+	link Ki'ade
+	link Tre'erman
+	"jump range" 40
+	trade Equipment 1250
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object "Ver'ar Plas"
+		sprite "planet/Class J"
+		distance 1000
+		period 500
+		object "Ver'a Ca"
+			sprite "planet/Polaris Station"
+			distance 400
+			period 500
+
+system Ver'avo
+	pos 674 -243
+	government Polaris
+	link Bis'valalo
+	link Z'precti
+	link Za'iuso
+	"jump range" 40
+	trade Food 450
+	trade Industrial 300
+	object
+		sprite star/k5
+		period 10
+	object "Ver'ar Pised"
+		sprite "planet/Bacterial Sludge"
+		distance 1000
+		period 500
+
+system Ver'ikar
+	pos 888 -199
+	government Polaris
+	link Bis'routak
+	link K'yapta
+	link Til'hapin
+	"jump range" 40
+	trade Industrial 900
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object "Ver'ar Noriout"
+		sprite "planet/Chlorine Atmosphere cities"
+		distance 1000
+		period 500
+		object "Tre'ar Aljo"
+			sprite "planet/Moon Forest"
+			distance 500
+			period 500
+
+system Ver'roqi
+	pos 1235 21
+	government Polaris
+	link Ki'manora
+	"jump range" 40
+	trade Industrial 900
+	trade Medical 750
+	object
+		sprite star/k5
+		period 10
+	object "Ver'ar Roqu"
+		sprite "planet/Class M Water"
+		distance 1000
+		period 360
+		object "Ver'a He"
+			sprite "planet/Polaris Station"
+			distance 500
+			period 360
+	object "Ver'a Se"
+		sprite "planet/Polaris Station"
+		distance 1500
+		period 360
+		offset 180
+
+system Vestin
+	pos -483 439
+	government Moash
+	link Alala
+	link Neirt
+	link Tuente
+	link Vantra
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Moash LP 2"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Vyl'E'Tinti
+	pos 387 -747
+	government Uninhabited
+	link Dal'U'Sinto
+	link Deb'I'Vad
+	link Gan'U'Tornes
+	link Sel'I'Gal
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Warana
+	pos -925 277
+	government Vella
+	link Belt
+	link Biri
+	link Gechta
+	link Hevel
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Vella LP #1"
+		sprite "planet/Auroran Listening Post side"
+		distance 1000
+		period 500
+
+system Widow
+	pos 304 -207
+	government Uninhabited
+	link Antares
+	link Nil'vran
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Willon
+	pos 1208 -902
+	government Independent
+	link Nthaan
+	link Ravelin
+	link S7evyn
+	"jump range" 40
+	trade "Luxury Goods" 1000
+	trade Medical 1688
+	object
+		sprite star/k5
+		period 10
+	object Pipeline
+		sprite "planet/Class J"
+		distance 1000
+		period 500
+
+system Wittor
+	pos 130 413
+	government Empire
+	link Hope
+	link SPC-1948
+	link Unin
+	link Vemap
+	"jump range" 40
+	trade "Luxury Goods" 2000
+	trade Metal 200
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite "planet/Gas Giant Rings"
+		distance 1500
+		period 500
+		object "Water Moon"
+			sprite "planet/Moon Water cities"
+			distance 1000
+			period 500
+
+system "Wolf 359"
+	pos -437 -371
+	government Federation
+	link Maker
+	link Naka
+	"jump range" 40
+	trade Equipment 500
+	trade Industrial 900
+	object
+		sprite star/k5
+		period 10
+	object "New England"
+		sprite "planet/Class M Small cities"
+		distance 1000
+		period 500
+		object
+			sprite planet/Hypergate
+			distance 600
+			period 100
+
+system Xante
+	pos -604 244
+	government Uninhabited
+	link Alphara
+	link Felos
+	link Iris
+	link Reacher
+	link Yria
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Xell
+	pos -65 264
+	government Uninhabited
+	link Cove
+	link Tuatha
+	link Vemap
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Xym'E'Caros
+	pos 671 -802
+	government Uninhabited
+	link Cros'T'Road
+	link Dal'U'Sinto
+	link Gan'U'Tornes
+	link Mes'E'Ruma
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Yennin
+	pos -388 45
+	government Uninhabited
+	link Fyre
+	link Hannaford
+	link Merrynne
+	link "Porto Rillia"
+	link Spica
+	link Zone
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Yllar
+	pos -940 -479
+	government Uninhabited
+	link Estearll
+	link Illiask
+	link Systoll
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Yria
+	pos -641 111
+	government Uninhabited
+	link Alphara
+	link "Nesre Secundus"
+	link Reacher
+	link Uvon
+	link Xante
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Z'elta
+	pos 1170 -246
+	government Uninhabited
+	link G'amit
+	link Ki'asman
+	link P'omlpha
+	link Tre'minor
+	link Tre'olepla
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Z'heaj
+	pos 486 128
+	government Uninhabited
+	link Ferris
+	link Mjolnir
+	link Sender
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Z'heaj He"
+		sprite "planet/Class M"
+		distance 750
+		period 500
+
+system Z'precti
+	pos 570 -311
+	government Uninhabited
+	link K'minkek
+	link K'onl
+	link Tre'illica
+	link Ver'avo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Z'precti He"
+		sprite "planet/Moon Rocky"
+		distance 500
+		period 500
+
+system Za'diti
+	pos 1219 -351
+	government Uninhabited
+	link Nil'pesetra
+	link Tre'olepla
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Ar'za Diti"
+		sprite "planet/Moon Metallic"
+		distance 500
+		period 500
+
+system Za'iuso
+	pos 716 -333
+	government Uninhabited
+	link K'minkek
+	link OG-DR
+	link Ver'avo
+	"jump range" 40
+	object
+		sprite star/k5
+		period 10
+	object "Ar'Za Iusia"
+		sprite "planet/Class L"
+		distance 500
+		period 500
+
+system Za'krana
+	pos 504 -1
+	government Uninhabited
+	link K'marak
+	link Mjolnir
+	link P'napna
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Zalo
+	pos -733 -132
+	government Uninhabited
+	link Kerella
+	link "Nesre Secundus"
+	link Uvon
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Zeles
+	pos 830 461
+	government Uninhabited
+	link Hook
+	link Kratos
+	link Nicka
+	link Over
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Zipa
+	pos 450 740
+	government Uninhabited
+	link Aplix
+	link Cipa
+	link Gary
+	link Kipa
+	link Tural
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
+
+system Zone
+	pos -292 83
+	government Uninhabited
+	link Galvan
+	link Yennin
+	"jump range" 40
+	departure 500
+		jump 600
+	arrival 600
+		jump 500
+	object
+		sprite star/naev/yellow01
+		period 10
