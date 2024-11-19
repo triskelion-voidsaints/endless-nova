@@ -1,3 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: endless-nova
+Upstream-Contact: Triskelion Voidsaints <contact@triskelion.addy.io>
+Source: https://github.com/triskelion-voidsaints/endless-nova
+
 Files:
 	data/Mi?swizzling*
 Copyright: Darcy Manoel <Darcman00@gmail.com>
